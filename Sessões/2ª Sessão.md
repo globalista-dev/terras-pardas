@@ -8,10 +8,10 @@ Cântico dos cultistas: "Aḳ kan salarah. Myrkul var goth. Ḳaselen dar mël. 
 
 Encontra no chão uma [papiro antigo, amassado](https://docs.google.com/document/d/1evKFyes5GdBRH6LwKv998OLqMzrTO2MYJZTxHU8V78U/edit?usp=sharing) escrito: 
 
-Myrkul ky q'ënmu q'ywky (ᠮᠢᠷᠺᠥᠯ ᠺᠢ ᠬᠼᠧᠨᠮᠥ ᠬᠼᠢᠩᠺᠢ) 
-Myrkul graqda wokhrë (ᠮᠢᠷᠺᠥᠯ ᠭᠷᠠᠬᠳᠠ ᠩᠣᠻᠷᠧ) 
-Myrkul hy gybukhlu (ᠮᠢᠷᠺᠥᠯ ᠾᠢ ᠭᠢᠪᠥᠻᠯᠥ) 
-Myrkul nlyhy dly ga kkhë (ᠮᠢᠷᠺᠥᠯ ᠨᠯᠢᠾᠢ ᠳᠯᠢ ᠭᠠ ᠺᠻᠧ) 
+Myrkul ky q'ënmu q'ywky
+Myrkul graqda wokhrë
+Myrkul hy gybukhlu
+Myrkul nlyhy dly ga kkhë
 
 No caso dos PCs descobrirem os cultistas e contarem às autoridades, o Rei demonstrará desconhecimento, encaminhando-os para Tarnis e Vanfyr, que dirão que já sabem do ocorrido e que o mesmo está sendo investigado pela Guarda Real. Se retornarem até a caverna com as autoridades, não encontrarão absolutamente nenhuma evidência.  
 
