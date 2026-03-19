@@ -1,0 +1,1 @@
+País vizinho às Terras Pardas, foi relegada à uma confederação de cidades-estado pseudo-independentes e fracamente unificadas após a derrota militar para o General Boromir. Apoia secretamente a [[Nathrak]], mas não está por trás dela.
