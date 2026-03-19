@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locais/Terras Pardas.md",
+                "file": "Lore/NPCs/Inimigos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terras Pardas"
+              "title": "Inimigos"
             }
           }
         ]
@@ -186,15 +186,15 @@
   },
   "active": "31647870d2e86606",
   "lastOpenFiles": [
-    "Lore/Locais/Bath'bathal.md",
-    "Lore/Locais/Reino Humano de Arda.md",
-    "Lore/Locais/Terras Esquecidas.md",
+    "Lore/NPCs/Aliados.md",
+    "Lore/NPCs/Inimigos.md",
     "Lore/Locais/Terras Pardas.md",
-    "Lore/Locais/Confederação Yi-Ti.md",
+    "Lore/Locais/Terras Esquecidas.md",
     "Lore/Locais/Cidade de Latão.md",
     "Lore/Locais/Império Ameriano.md",
-    "Lore/NPCs/Inimigos.md",
-    "Lore/NPCs/Aliados.md",
+    "Lore/Locais/Bath'bathal.md",
+    "Lore/Locais/Reino Humano de Arda.md",
+    "Lore/Locais/Confederação Yi-Ti.md",
     "Lore/Locais/Sylvandor.md",
     "Lore/PCs.md",
     "Lore/PCs",

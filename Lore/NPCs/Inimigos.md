@@ -1,0 +1,2 @@
+#### Marquês Tarnis a.k.a. Imperador Tarnis Augustus I
+Líder da Nathrak e dos [[Culto de Myrkul|cultistas de Myrkul]], orquestrou um golpe de estado contra [[Boromir II]], que não possuía herdeiros, e assumiu o trono do reino, reorganizando o mesmo e Bath'bathal sob o Império Ameriano;
