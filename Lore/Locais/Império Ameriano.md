@@ -1,1 +1,3 @@
-Após o assassinato do Rei Boromir II e da Rainha Boromira IV e aparente sequestro
+Após o assassinato do Rei Boromir II e da Rainha Boromira III e aparente sequestro da Princesa Boromira IV, o Marquês Tarnis - líder secreto do [[Culto de Myrkul]] - assume o poder sob o nome Imperador Tarnis Augustus I, reorganizando as [[Terras Pardas]] e [[Bath'bathal]] em um único país, o Império Ameriano.
+
+Tarnis recebera apoio de chefes militares e líderes políticos de [[Bath'bathal]], que buscavam reunificar os dois países e colocar fim aos conflitos fronteiriços que enfraqueciam seu território.
