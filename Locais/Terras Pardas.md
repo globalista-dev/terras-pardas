@@ -1,0 +1,1 @@
+As Terras Pardas se situam na extremidade leste do continente de Amera. São governadas pela família Boromir. 

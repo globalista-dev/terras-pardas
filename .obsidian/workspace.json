@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste/Teste 2.md",
+                "file": "Locais/Terras Pardas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste 2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e503181424b6893",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8e3071b25427d6d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Terras Pardas"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste/Teste 2.md",
+                "file": "Locais/Terras Pardas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Teste 2"
+              "title": "Backlinks for Terras Pardas"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste/Teste 2.md",
+                "file": "Locais/Terras Pardas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Teste 2"
+              "title": "Outgoing links from Terras Pardas"
             }
           },
           {
@@ -172,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste/Teste 2.md",
+                "file": "Locais/Terras Pardas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Teste 2"
+              "title": "Outline of Terras Pardas"
             }
           }
         ]
@@ -202,7 +186,9 @@
   },
   "active": "31647870d2e86606",
   "lastOpenFiles": [
+    "Locais/Terras Pardas.md",
     "Welcome.md",
+    "Locais",
     "Teste/Teste 2.md",
     "Teste",
     "Untitled.md"
