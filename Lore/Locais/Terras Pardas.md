@@ -1,10 +1,10 @@
 As Terras Pardas se situam na extremidade leste do continente de Amera. Eram governadas pela família Boromir, até a traição do Marquês Tarnis e o estabelecimento do [[Império Ameriano]]. Culturalmente, todos os descendentes de Boromir I são nomeados Boromir, se homens, e Boromira, se mulheres. No caso de casamentos, o cônjuge toma para si o mesmo esquema de nomes, assumindo a numeração adequada.
 
 #### Fundação
+Ver [[Fundação das Terras Pardas]]
 
-
-#### Destruição
-Ver [[Império Ameriano]]
+#### Incorporação no [[Império Ameriano]]
+Ver [[A Grande Reunificação]]
 
 #### Umbraalor
 Capital das Terras Pardas. "Umbra" remete a sombras ou mistérios, refletindo a conexão com a magia arcana dos Boromir, e "alor" traz a ideia de grandeza e poder. Esse nome transmite a sensação de uma cidade imponente, com fortes raízes na magia e um ar de segredo e domínio.
