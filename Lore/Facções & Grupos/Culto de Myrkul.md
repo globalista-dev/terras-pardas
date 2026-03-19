@@ -10,4 +10,4 @@ Braço operacional. Responsável pelo tráfico de pessoas e escravidão generali
 #### Zaloth Yatûl
 Também conhecida como Legião Negra, é a Guarda Real reorganizada em uma legião mágica das forças Nathrak que jura lealdade à Myrkur e ganha poderes sobrehumanos dados pelo Deus.
 
-O pai de Crane é um dos membros 
+O pai de Crane é um dos membros do grupo.

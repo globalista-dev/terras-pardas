@@ -7,5 +7,5 @@ Capital das Terras Pardas. "Umbra" remete a sombras ou mistérios, refletindo a 
 Cidade portuária nas Terras Pardas. Conhecida por suas festas locais relacionadas à deidades da água e da chuva.
 
 #### Zirith 
-Vilarejo agrário próximo a Umbraalor destruído em um ataque da Nathrak durante a [[Primeira sessão|primeira sessão]]
+Vilarejo agrário próximo a Umbraalor destruído em um ataque da Nathrak durante a [[1ª Sessão|primeira sessão]]
 

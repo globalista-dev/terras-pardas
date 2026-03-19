@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facções & Grupos/Culto de Myrkul.md",
+                "file": "Sessões/2ª Sessão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Culto de Myrkul"
+              "title": "2ª Sessão"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções & Grupos/Culto de Myrkul.md",
+                "file": "Sessões/2ª Sessão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Culto de Myrkul"
+              "title": "Backlinks for 2ª Sessão"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções & Grupos/Culto de Myrkul.md",
+                "file": "Sessões/2ª Sessão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Culto de Myrkul"
+              "title": "Outgoing links from 2ª Sessão"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facções & Grupos/Culto de Myrkul.md",
+                "file": "Sessões/2ª Sessão.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Culto de Myrkul"
+              "title": "Outline of 2ª Sessão"
             }
           }
         ]
@@ -186,18 +186,23 @@
   },
   "active": "31647870d2e86606",
   "lastOpenFiles": [
-    "Facções & Grupos/Legião de Tyr.md",
-    "Facções & Grupos/Nathrak.md",
-    "Facções & Grupos/Culto de Myrkul.md",
-    "Locais/Bath'bathal.md",
-    "Locais/Terras Pardas.md",
-    "Facções & Grupos/Resistência Livre.md",
-    "Untitled",
-    "Sessões/Primeira sessão.md",
+    "Sessões/1ª Sessão.md",
+    "Sessões/3ª Sessão.md",
+    "Sessões/6ª Sessão.md",
+    "Sessões/2ª Sessão.md",
+    "Sessões/5ª Sessão.md",
+    "Sessões/4ª Sessão.md",
+    "Lore/Facções & Grupos/Nathrak.md",
+    "Lore/Locais/Bath'bathal.md",
+    "Lore/Facções & Grupos/Culto de Myrkul.md",
+    "Lore",
+    "Lore/Locais/Terras Pardas.md",
+    "Lore/Facções & Grupos/Resistência Livre.md",
+    "Lore/Facções & Grupos/Legião de Tyr.md",
     "Sessões",
-    "Facções & Grupos",
+    "Lore/Facções & Grupos",
     "Welcome.md",
-    "Locais",
+    "Lore/Locais",
     "Teste/Teste 2.md",
     "Teste",
     "Untitled.md"
