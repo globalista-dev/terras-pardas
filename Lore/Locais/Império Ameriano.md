@@ -1,0 +1,1 @@
+Após o assassinato do Rei Boromir II e da Rainha Boromira IV e aparente sequestro
