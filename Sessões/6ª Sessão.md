@@ -116,31 +116,31 @@ Aerindel é interrompido pelo uivar do vento. A luz dourada da floresta rapidame
 
 "Perguntais o que é, quando deveríeis perguntar o que corrige. Uma balança não é o peso que carrega, mas o equilíbrio que produz. Aquilo que a morte perverte carrega já em si a semente de sua própria correção; o Contrapeso apenas a desperta. Não destrói. lembra. E há coisas que, lembradas, não podem continuar a existir da forma que existiam." 
 
-Quem fez o Contrapeso? 
+**Quem fez o Contrapeso?** 
 
 "Tal resposta desconheço, e poucas são as coisas das quais o mesmo posso afirmar. Chegou-nos por mãos que já há muito são pó, acompanhado de palavras que explicavam seu uso, mas que de sua origem nada diziam. Suspeito que quem o forjou não desejava ser rememorado, sem embargo apenas que a obra perdurasse. Nisto, ao menos, obteve pleno êxito" 
 
-O que o Contrapeso faz? 
+**O que o Contrapeso faz?** 
 
 "Perguntais o que faz uma chave antes de verdes a fechadura. O que posso dizer é isto: onde a morte foi dobrada contra sua própria natureza, o Contrapeso a endireita. O vínculo entre o que corrompe e o que é corrompido – seja portador, seja deus – torna-se... questionável, em sua presença. Mas não vos digais que sabeis como usá-lo, pois eu próprio não sei. E desconfiai de quem afirmar que sabe." 
 
-Como curar a Maldição do Espinho Negro 
+**Como curar a Maldição do Espinho Negro** 
 
 "Curar? Tal palavra pressupõe que o que vos aflige seja enfermidade. Não o é. O Espinho não é peçonha que o corpo possa expelir, nem ferida que a carne possa fechar por si mesma. É uma ausência, algo que foi arrancado de vosso companheiro no momento do corte, e que, sem ser restituído, continuará a faltar até que nada reste. Ervas e magias retardam o avanço; não o solvem. O que foi tomado precisa ser devolvido. De que modo? Isto está além do que estas árvores me foi dado aprender" 
 
-O que é a Maldição do Espinho Negro? 
+**O que é a Maldição do Espinho Negro?** 
 
 "A lâmina que vos feriu não era apenas aço. Era cólera -- a ira de algo que margeia entre a vida e a morte sem a nenhuma das duas pertencer. Esse algo deixou em vosso companheiro uma marca: uma sombra que de dentro cresce, que esfria o que o calor deveria ter, que apaga lentamente aquilo que faz de alguém o que é. Vosso companheiro ainda aqui se encontra. Porém parte dele já começou a partir. Conheceis o frio que antecede o amanhecer, quando a noite se recusa a findar? É disto que falo." 
 
-Como chegar em Stigai? 
+**Como chegar em Stigai?** 
 
 "Nas Terras Esquecidas Stigai se encontra, além dos campos que os homens abandonaram e das estradas que ninguém mais conserva. Seguindo para leste, além de Arda e Bath'bathal, o mundo muda antes que a cidade se revele: o ar pesa de modo diverso, os animais se fazem raros, e os mortos que ali foram levados parecem mais presentes do que em qualquer outro lugar que conheceis. Quando tal sentirdes, próximos estarei. A cidade vos receberá, pois Stigai a todos recebe. É sua natureza e função desde os tempos em que seu nome ainda não havia sido dado." 
 
-O que fazer em Stigai? 
+**O que fazer em Stigai?** 
 
 "Buscais uma fraqueza em Myrkul, algo que um deus da morte não desejaria que soubésseis. Não espereis que tal conhecimento esteja exposto a quem chega. A Guilda dos Protetores acumula saber como outros acumulam ouro: com zelo, com sigilo, e com plena consciência do que cada peça vale. Havereis de demonstrar que sois digno de o receber, ou suficientemente úteis para que valha a pena partilhá-lo. Qual das duas vias vos será exigida, não me é dado saber, dependerá de quem encontrardes. Porém ide com uma pergunta clara. Em Stigai, perguntas vagas respostas vagas recebem. E respostas vagas naquele lugar custam mais do que deveriam" 
 
-Com quem falar em Stigai? 
+**Com quem falar em Stigai?** 
 
 "O nome que ainda recordo é Serath. Era, na última vez que entre nós houve contato, um dos guardiões sêniores da Guilda. Alguém que mais tempo passa entre os mortos do que entre os vivos, e que assim o prefere. De trato fácil não é. Mas honesto o é, à sua maneira, e de Myrkul mais sabe do que qualquer ser vivo que me seja dado nomear. Se Serath ainda viver, dizei que Aerindel vos enviou e entregai este pergaminho com minhas palavras de prova." 
 
