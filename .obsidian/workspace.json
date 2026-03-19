@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locais/Reino de Arda.md",
+                "file": "Lore/Locais/Cidade de Latão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reino de Arda"
+              "title": "Cidade de Latão"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "31647870d2e86606",
   "lastOpenFiles": [
-    "Lore/Locais/Bath'bathal.md",
-    "Lore/Locais/Reino de Arda.md",
-    "Lore/Locais/Terras Esquecidas.md",
+    "Lore/Locais/Reino Humano de Arda.md",
+    "Lore/Locais/Cidade de Latão.md",
     "Lore/Locais/Terras Pardas.md",
+    "Lore/Locais/Terras Esquecidas.md",
+    "Lore/Locais/Bath'bathal.md",
     "Sessões/6ª Sessão.md",
     "Sessões/5ª Sessão.md",
     "Sessões/4ª Sessão.md",
