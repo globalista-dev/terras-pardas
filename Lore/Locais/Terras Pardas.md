@@ -6,7 +6,6 @@ As Terras Pardas se situam na extremidade leste do continente de Amera. Eram gov
 #### Destruição
 Ver [[Império Ameriano]]
 
-
 #### Umbraalor
 Capital das Terras Pardas. "Umbra" remete a sombras ou mistérios, refletindo a conexão com a magia arcana dos Boromir, e "alor" traz a ideia de grandeza e poder. Esse nome transmite a sensação de uma cidade imponente, com fortes raízes na magia e um ar de segredo e domínio.
 

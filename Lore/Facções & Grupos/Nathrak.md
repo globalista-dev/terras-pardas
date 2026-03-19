@@ -2,4 +2,4 @@ Facção secretamente apoiada pelo governo de [[Bath'bathal]] que busca restaura
 
 O governo do país nega qualquer envolvimento. Nathrak significa "exército" em Bathali (língua de Bath'bathal). O nome completo da organização é *Nathrak Khreteker Qalar* ("exército do povo verdadeiro"). Possui características fascistas. 
 
-Liderada pelo General Yngol Wuthard, sob comando genérico do Barão Tarnis, conhecido como O Tirano quando assume o trono. Possui a Zalokh Yatûl, a Legião Negra, uma legião mágica das forças Nathrak que jura lealdade à Myrkur e ganha poderes sobrehumanos dados pelo Deus.
+Liderada pelo [[Inimigos#Yngol Wuthard|Yngol Wuthard]], sob comando real de [[Inimigos#Marquês Tarnis a.k.a. Imperador Tarnis Augustus I|Tarnis]].

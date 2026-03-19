@@ -1,4 +1,4 @@
-Liderado por Tarnis, executa sacrifícios humanos para Myrkul em troca de benesses para as Terras Pardas. 
+Liderado por [[Inimigos#Marquês Tarnis a.k.a. Imperador Tarnis Augustus I|Tarnis]], executa sacrifícios humanos para Myrkul em troca de benesses para as [[Terras Pardas]]. 
 ### Subgrupos
 O Culto de Myrkul possui vários subgrupos, alguns mais importantes que outros
 #### Igreja de Myrkul
@@ -8,6 +8,6 @@ Ver [[Nathrak]].
 #### Círculo
 Braço operacional. Responsável pelo tráfico de pessoas e escravidão generalizada.
 #### Zaloth Yatûl
-Também conhecida como Legião Negra, é a Guarda Real reorganizada em uma legião mágica das forças Nathrak que jura lealdade à Myrkur e ganha poderes sobrehumanos dados pelo Deus.
+Também conhecida como Legião Negra, é a Guarda Real reorganizada em uma legião mágica das forças Nathrak que jura lealdade à Myrkul e ganha poderes sobrehumanos dados pelo Deus.
 
 O pai de Crane é um dos membros do grupo.
