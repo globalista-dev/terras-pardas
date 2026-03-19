@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessões/Primeira sessão.md",
+                "file": "Facções & Grupos/Culto de Myrkul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primeira sessão"
+              "title": "Culto de Myrkul"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/Primeira sessão.md",
+                "file": "Facções & Grupos/Culto de Myrkul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Primeira sessão"
+              "title": "Backlinks for Culto de Myrkul"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Primeira sessão.md",
+                "file": "Facções & Grupos/Culto de Myrkul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Primeira sessão"
+              "title": "Outgoing links from Culto de Myrkul"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessões/Primeira sessão.md",
+                "file": "Facções & Grupos/Culto de Myrkul.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Primeira sessão"
+              "title": "Outline of Culto de Myrkul"
             }
           }
         ]
@@ -186,11 +186,15 @@
   },
   "active": "31647870d2e86606",
   "lastOpenFiles": [
+    "Locais/Bath'bathal.md",
     "Locais/Terras Pardas.md",
+    "Facções & Grupos/Resistência Livre.md",
+    "Facções & Grupos/Nathrak.md",
+    "Facções & Grupos/Legião de Tyr.md",
+    "Facções & Grupos/Culto de Myrkul.md",
+    "Untitled",
     "Sessões/Primeira sessão.md",
     "Sessões",
-    "Locais/Bath'bathal.md",
-    "Facções & Grupos/Nathrak.md",
     "Facções & Grupos",
     "Welcome.md",
     "Locais",

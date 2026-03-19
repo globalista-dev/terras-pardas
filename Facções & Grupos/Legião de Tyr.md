@@ -1,0 +1,1 @@
+A Guarda Real das Terras Pardas é reorganizada por Vanfyr na Legião de Tyr, um grupo de cavaleiros especializado em manter a ordem através da força e da opressão. O trabalho da Guarda Real em si passa para a Zalokh Yatûl.

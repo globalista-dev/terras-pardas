@@ -1,0 +1,1 @@
+Guerrilha armada operando no submundo das Terras Pardas lutando contra a escravidão e sacrifícios humanos ao deus Myrkul. Suspeita, há meses, que a Nathrak e o Culto de Myrkul possuem alguma ligação e, mais especificamente, que Tarnis é o líder de ambos.
