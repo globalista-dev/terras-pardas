@@ -56,6 +56,23 @@ Pool 2: 1, 6, 7, 8, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
 **1. Um troll conseguiu invadir o campo!**
 Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
 
+*Troll*
+
+**AC** 15 **Initiative +1 (11)** **HP** 94 **Speed** 30 ft.
+*Skill      Mod Save*   
+**STR**  18  +4  +4
+
+
+|       |                    |       |              |
+| ----- | ------------------ | ----- | ------------ |
+| AC 15 | Initiative +1 (11) | HP 94 | Speed 30 ft. |
+|       |                    |       |              |
+
+
+
+
+
+
 
 **PÓS-CERCO** 
 
