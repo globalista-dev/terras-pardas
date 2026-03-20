@@ -107,7 +107,7 @@ Um sentinela age de modo suspeito durante           Escadas e ganchos surgem em 
 a troca de turnos. Se desmascararem e con-          num setor fraco da paliçada. Se repeli-
 tiverem o traidor, os Invasores perdem 1 MP            rem o assalto em 3 turnos, os invasores
 Se ele sabotar um guincho/portinhola, a                  perdem 1 HP. Se os inimigos tomarem a
-Resistência perde 1 HP.                                              posição, a Resistência perde 1 HP e 1 MP`
+Resistência perde 1 HP.                                              posição, a Resistência perde 1 HP e 1 MP.
 
 ---
 
