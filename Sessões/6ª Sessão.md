@@ -84,26 +84,32 @@ Necromante
 ![[zombie_stats.png]]
 
 ---
-**5. Ponte que Cede**                                                         **6. Túnel descoberto**
+**5. Ponte que Cede**                                                     **6. Túnel descoberto**
 
-O inimigo tenta cruzar o rio em uma ponte                  Um túnel inimigo está prester a se r
-improvisada. Se destruírem a ponte antes 
-de atravessarem, os Invasores perdem 1 HP.
-Se a ponte resistir, a Resistência perde 1 HP.
-
----
-
-**6. Túnel descoberto** 
-
-Um túnel inimigo está prestes a se romper sob uma torre! 
-
-Se colapsarem o túnel em até 3 turnos, os invasores perdem 1 HP 
-
-Senão, a Resistência perde 1 HP
+O inimigo tenta cruzar o rio em uma ponte              Um túnel inimigo está prester a se romper
+improvisada. Se destruírem a ponte antes               sob uma torre! Se o colapsarem em até 3
+de atravessarem, os Invasores perdem 1 HP.          turnos, os invasores perdem 1 HP. Senão,
+Se a ponte resistir, a Resistência perde 1 HP.          a Resistência perde 1 HP
 
 ---
 
+**7. Incêndio nas paliçadas**                              **8. Aríete de Tyr**
 
+Chamas sobem perto do portão. Se              Um aríete pesado alcança o portão! Se o desati-
+apagarem o fogo em até 2 turnos,                 varem ou destruírem em até 2 turnos, os inva-
+os invasores perdem 1 MP, senão, a              sores perdem 1 HP. Senão, a Resistência perde
+Resistência perde 1 HP.                                   1 HP.
+
+---
+**9. Traidor na Muralha**                                                **10. Chuva de Armas de Cerco**
+
+Um sentinela age de modo suspeito durante           Escadas e ganchos surgem em massa
+a troca de turnos. Se desmascararem e con-          num setor fraco da paliçada. Se repeli-
+tiverem o traidor, os Invasores perdem 1 MP            rem o assalto em 3 turnos, os invasores
+Se ele sabotar um guincho/portinhola, a                  perdem 1 HP. Se os inimigos tomarem a
+Resistência perde 1 HP.                                              posição, a Resistência perde 1 HP e 1 MP`
+
+---
 
 
 **PÓS-CERCO** 
