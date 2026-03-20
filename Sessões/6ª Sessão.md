@@ -50,6 +50,12 @@ Todo round, rode um d20 para cada lado da batalha. Um d3 determina o que o lado 
 
 Depois, role um d2 para determinar o pool de eventos. Estes não se repetem, reduza o dado a cada rolada. ^35f9f9
 
+Por último, role um d4 para ver qual NPC vai acompanhar os jogadores.
+1 - Oblitus
+2 - Elara
+3 - Veran
+4 - Batund
+
 **[[6ª Sessão#POOL 1 6ª Sessão 35f9f9 (voltar)|Pool 1]]:** (d7-d6-d5-d4-d3-d2-d1)
 Riscar (2 ~):   1   1   1   2   3   4   5
 Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª Sessão#^2cf212|Evento 3]]  [[6ª Sessão#^f4f98f|Eventos 4 & 5]]
@@ -57,6 +63,8 @@ Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª
 **[[6ª Sessão#POOL 2 6ª Sessão 35f9f9 (voltar)|Pool 2]]:** (d9-d8-d7-d6-d5-d4-d3-d2-d1)
 Riscar (2 ~):   1   2   3   4   5   5   6   7   7
 Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão#^b946ce|Eventos 2 & 3]]  [[6ª Sessão#^bfb79e|Eventos 4 & 5]]  [[6ª Sessão#^899fc9|Eventos 6 & 7]]
+
+[[6ª Sessão#PÓS-CERCO|Ir para pós-cerco]]
 
 #### POOL 1 [[6ª Sessão#^35f9f9|(voltar)]]
 
@@ -102,7 +110,7 @@ Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos ^3085d6
 
 ---
 
-**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                  **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]] ^b946ce
+**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(volt[[#^35f9f9]]ar)]]                                  **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]] ^b946ce
 
 Um túnel inimigo está prester a se romper           Chamas sobem perto do portão. Se apaga-
 sob uma torre! Se o colapsarem em até 3            rem o fogo em até 2 turnos, os invasores
