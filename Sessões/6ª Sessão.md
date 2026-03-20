@@ -26,9 +26,9 @@ Cada ação realizada dá um bônus de HP ou MP, para um máximo de cinco açõe
 
 Oblitus: "Não há tempo para fazer muitas coisas. O ideal seria encontrarmos no máximo cinco preparações iniciais para esse ataque. Mais que isso e corremos o risco de não termos pessoal suficiente para finalizá-las." 
 
-Reforçar o perímetro (+2 HP) 
+Reforçar o perímetro (+1 HP) 
 
-Preparar uma rota de fuga (+2 MP) 
+Preparar uma rota de fuga (+1 MP) 
 
 Enviar batedores para retardar o avanço das forças de Tarnis (+1 HP e +1MP)  
 
@@ -56,9 +56,7 @@ Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª
 
 **[[6ª Sessão#POOL 2 6ª Sessão 35f9f9 (voltar)|Pool 2]]:** (d9-d8-d7-d6-d5-d4-d3-d2-d1)
 Riscar (2 ~):   1   2   3   4   5   5   6   7   7
-Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão]]
-
-1, 6, 7, 8, 10, 10, 11, 12, 13 
+Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão#^b946ce|Eventos 2 & 3]]  [[6ª Sessão#^bfb79e|Eventos 4 & 5]]  [[6ª Sessão#^899fc9|Eventos 6 & 7]]
 
 #### POOL 1 [[6ª Sessão#^35f9f9|(voltar)]]
 
@@ -104,7 +102,7 @@ Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos ^3085d6
 
 ---
 
-**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                  **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]]
+**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                  **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]] ^b946ce
 
 Um túnel inimigo está prester a se romper           Chamas sobem perto do portão. Se apaga-
 sob uma torre! Se o colapsarem em até 3            rem o fogo em até 2 turnos, os invasores
@@ -112,7 +110,7 @@ turnos, os invasores perdem 1 HP. Senão,            perdem 1 MP. Senão, a Resi
 a Resistência perde 1 HP                                         HP.
 
 ---
-**4. Aríete de Tyr** [[6ª Sessão#^35f9f9|(voltar)]]                                          **5. Chuva de Armas de Cerco** [[6ª Sessão#^35f9f9|(voltar)]]
+**4. Aríete de Tyr** [[6ª Sessão#^35f9f9|(voltar)]]                                          **5. Chuva de Armas de Cerco** [[6ª Sessão#^35f9f9|(voltar)]] ^bfb79e
 
 Um aríete pesado alcança o portão! Se o             Escadas e ganchos surgem num setor fraco
 desativarem ou destruírem em até 2 tur-              da paliçada. Se repelirem o assalto em até
@@ -120,7 +118,7 @@ nos, os invasores perdem 1 HP. Senão, a             3 turnos, os invasores perd
 Resistência perde 1 HP.                                          marem a posição, a Resistência perde 1 HP.
 
 ---
-**6. Segurem o estandarte** [[6ª Sessão#^35f9f9|(voltar)]]                        **7. Cavalaria de choque** [[6ª Sessão#^35f9f9|(voltar)]]
+**6. Segurem o estandarte** [[6ª Sessão#^35f9f9|(voltar)]]                        **7. Cavalaria de choque** [[6ª Sessão#^35f9f9|(voltar)]] ^899fc9
 
 Uma companhia inimiga exibe o estan-                Um destacamento inimigo tenta romper o
 darte da Legião sob as muralhas. Se                    portão principal. Se repelirem o assalto em
