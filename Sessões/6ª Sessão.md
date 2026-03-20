@@ -50,10 +50,14 @@ Todo round, rode um d20 para cada lado da batalha. Um d3 determina o que o lado 
 
 Depois, role um d2 para determinar o pool de eventos. Estes não se repetem, reduza o dado a cada rolada. ^35f9f9
 
-**[[6ª Sessão#POOL 1|Pool 1]]:** (d7-d6-d5-d4-d3-d2-d1)
-Riscar: 1, 1, 1, 2, 3, 4, 5 
-Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª Sessão^3.]]
-**[[6ª Sessão#POOL 2|Pool 2]]:** 1, 6, 7, 8, 10, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
+**[[6ª Sessão#POOL 1 6ª Sessão 35f9f9 (voltar)|Pool 1]]:** (d7-d6-d5-d4-d3-d2-d1)
+Riscar (2 ~): 1, 1, 1, 2, 3, 4, 5 
+Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª Sessão#^2cf212|Evento 3]]  [[6ª Sessão#^f4f98f|Eventos 4 & 5]]
+
+**[[6ª Sessão#POOL 2 6ª Sessão 35f9f9 (voltar)|Pool 2]]:** (d8-d7-d6-d5-d4-d3-d2-d1)
+Riscar (2 ~)
+
+1, 6, 7, 8, 10, 10, 11, 12, 13 
 
 #### POOL 1 [[6ª Sessão#^35f9f9|(voltar)]]
 
@@ -73,7 +77,7 @@ Se capturado, o lado adversário perde 1 MP ^75504e
 ---
 
 **3. Necromante do Estandarte Cinzento** [[6ª Sessão#^35f9f9|(voltar)]]
-Um necromante anima cadáveres no fosso. Se neutralizarem em até 3 turnos, os Invasores perdem 1 MP. Se ele completar o rito, a Resistência perde 1 HP
+Um necromante anima cadáveres no fosso. Se neutralizarem em até 3 turnos, os Invasores perdem 1 MP. Se ele completar o rito, a Resistência perde 1 HP ^2cf212
 
 Necromante
 ![[necromancer_stats.png]]
@@ -82,7 +86,7 @@ Necromante
 
 ---
 
-**4. Ponte que Cede** [[6ª Sessão#^35f9f9|(voltar)]]                                        **5. Traidor na Muralha [[6ª Sessão#^35f9f9|(voltar)]]
+**4. Ponte que Cede** [[6ª Sessão#^35f9f9|(voltar)]]                                        **5. Traidor na Muralha [[6ª Sessão#^35f9f9|(voltar)]] ^f4f98f
 
 O inimigo tenta cruzar o rio em uma ponte              Um sentinela age de modo suspeito du-
 improvisada. Se destruírem a ponte antes               rante a troca de turnos. Se o capturarem
@@ -92,17 +96,18 @@ Se a ponte resistir, a Resistência perde 1 HP.          HP. Senão, a Resistên
 ---
 #### POOL 2 [[6ª Sessão#^35f9f9|(voltar)]]
 
-**1. Um troll conseguiu invadir o campo!**
+**1. Um troll conseguiu invadir o campo!** [[6ª Sessão#^35f9f9|(voltar)]]
 Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
 
 ![[troll_stats.png|376]]
 
+---
 
-**6. Túnel descoberto**
+**6. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                  **7. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]]
 
-Um túnel inimigo está prester a se romper
-sob uma torre! Se o colapsarem em até 3
-turnos, os invasores perdem 1 HP. Senão,
+Um túnel inimigo está prester a se romper           Chamas sobem perto do portão. Se apaga-
+sob uma torre! Se o colapsarem em até 3            rem o fogo em até 2 turnos, os invasores
+turnos, os invasores perdem 1 HP. Senão,           p
 a Resistência perde 1 HP
 
 ---
