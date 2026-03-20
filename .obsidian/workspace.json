@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Facções & Grupos/Resistência Livre.md",
+                "file": "Lore/Eventos/A Grande Reunificação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resistência Livre"
+              "title": "A Grande Reunificação"
             }
           }
         ]
@@ -186,14 +186,14 @@
   },
   "active": "31647870d2e86606",
   "lastOpenFiles": [
-    "Lore/Facções & Grupos/Nathrak.md",
-    "Lore/Facções & Grupos/Legião de Tyr.md",
-    "Lore/Facções & Grupos/Culto de Myrkul.md",
     "Lore/Eventos/Fundação das Terras Pardas.md",
+    "Lore/Facções & Grupos/Culto de Myrkul.md",
+    "Lore/Facções & Grupos/Nathrak.md",
+    "Lore/Facções & Grupos/Resistência Livre.md",
+    "Lore/Facções & Grupos/Legião de Tyr.md",
     "Lore/Eventos/A Grande Reunificação.md",
     "Sessões/6ª Sessão.md",
     "Sessões/5ª Sessão.md",
-    "Lore/Facções & Grupos/Resistência Livre.md",
     "Lore/Locais/Terras Pardas.md",
     "Lore/Locais/Terras Esquecidas.md",
     "Lore/Eventos",
