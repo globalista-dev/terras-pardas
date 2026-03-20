@@ -1,6 +1,6 @@
 
 #### Boromir II
-Rei das Terras Pardas, assassinado e usurpado do poder por Tarnis e [[Nathrak]]. Tem ciência de que os cultistas operam no reino, mas prefere não saber sobre. Não tem herdeiros homens, apenas sua filha Boromira IV.
+Rei das Terras Pardas, assassinado e usurpado do poder por [[Inimigos#Marquês Tarnis a.k.a. Imperador Tarnis Augustus I|Tarnis]] e [[Nathrak]]. Tem ciência de que os cultistas operam no reino, mas prefere não saber sobre. Não tem herdeiros homens, apenas sua filha Boromira IV.
 
 #### Boromira III
 Rainha Consorte das Terras Pardas, assassinada junto com o regente.

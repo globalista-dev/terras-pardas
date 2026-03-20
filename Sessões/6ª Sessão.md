@@ -40,7 +40,22 @@ Ações de fuga ou moral: +1MP 
 
 Veran: "Não dá tempo... Não vamos conseguir evacuar pessoas, suprimentos e armas em menos de um dia. Podemos preparar uma rota, caso ela seja necessária. O conflito em si não pode ser evitado" 
 
-**PASSAR PARA CERCO DO CAMPO** 
+**CERCO DO CAMPO**
+
+Resistência- MP: 5; HP: 5 (Adicionar bônus)
+Exército- MP: 10; HP: 10
+
+Todo round, rode um d20 para cada lado da batalha. Um d3 determina o que o lado com menor d20 perderá (1 ponto):
+1- HP | 2- MP | 3- Ambos
+
+Depois, role um d2 para determinar o pool de eventos. Estes não se repetem, reduza o dado a cada rolada.
+
+Pool 1: 2, 3, 4, 5, 9 (d5-d4-d3-d2-d1)
+Pool 2: 1, 6, 7, 8, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
+
+**1. Um troll conseguiu invadir o campo!**
+Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
+
 
 **PÓS-CERCO** 
 
