@@ -9,3 +9,4 @@ Apontado como líder da Nathrak, *de facto* é apenas seu porta-voz. Seu papel �
 
 #### Pai de Crane
 Membro da Zaloth Yatûl. Em um acerto, tem 1/6 (1d6) de chance de envenenar.
+![[pai_do_crane_stats.png]]
