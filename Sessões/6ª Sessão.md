@@ -56,19 +56,17 @@ Pool 2: 1, 6, 7, 8, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
 **1. Um troll conseguiu invadir o campo!**
 Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
 
-*Troll*
-
-**AC** 15    **Initiative +1 (11)**    **HP** 94     **Speed** 30 ft.
-*Skill          Mod     Save*   
-**STR**  18    +4      +4
-
-
-| Troll      |                        |           |                  |
-| ---------- | ---------------------- | --------- | ---------------- |
-| **AC** 15  | **Initiative** +1 (11) | **HP** 94 | **Speed** 30 ft. |
-| *Skill*    | *Mod*     *Save*       | *Skill*   | *Mod*     *Save* |
-| **STR** 18 | +4        +4           | **INT** 7 | -2         -2    |
-|            |                        |           |                  |
+| Troll             |                        |                  |                  |
+| ----------------- | ---------------------- | ---------------- | ---------------- |
+| **AC** 15         | **Initiative** +1 (11) | **HP** 94        | **Speed** 30 ft. |
+| *Skill*           | *Mod*     *Save*       | *Skill*          | *Mod*     *Save* |
+| **STR** 18        | +4        +4           | **INT** 7        | -2         -2    |
+| **DEX** 13        | +1         +1          | **WIS** 9        | -1          -1   |
+| **CON** 20        | +5        +5           | **CHA** 7        | -2          -2   |
+| Perc. +5          | Darkvision 60ft.       | Pass. Perc. 15   | Lang. Giant      |
+| ***Multiattack*** | The troll makes        | 3 Rend attacks   | (A)              |
+| ***Rend***        | *Melee Roll* +7, 10ft. | *Hit*: 2d6+4 Sl. | (A)              |
+|                   |                        |                  |                  |
 
 
 
