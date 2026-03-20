@@ -57,6 +57,7 @@ Pool 2: 1, 6, 7, 8, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
 
 **1. Um troll conseguiu invadir o campo!**
 Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
+
 ![[troll_stats.png|376]]
 
 ---
@@ -70,7 +71,40 @@ HP do Soldier é 22
 ---
 **3. Capture um líder inimigo!**
 Se capturado, o lado adversário perde 1 MP
+
 ![[lider_stats.png|347]]
+
+---
+**4. Necromante do Estandarte Cinzento**
+Um necromante anima cadáveres no fosso. Se neutralizarem em até 3 turnos, os Invasores perdem 1 MP. Se ele completar o rito, a Resistência perde 1 HP
+
+Necromante
+![[necromancer_stats.png]]
+
+![[zombie_stats.png]]
+
+---
+**5. Ponte que Cede**                                                         **6. Túnel descoberto**
+
+O inimigo tenta cruzar o rio em uma ponte                  Um túnel inimigo está prester a se r
+improvisada. Se destruírem a ponte antes 
+de atravessarem, os Invasores perdem 1 HP.
+Se a ponte resistir, a Resistência perde 1 HP.
+
+---
+
+**6. Túnel descoberto** 
+
+Um túnel inimigo está prestes a se romper sob uma torre! 
+
+Se colapsarem o túnel em até 3 turnos, os invasores perdem 1 HP 
+
+Senão, a Resistência perde 1 HP
+
+---
+
+
+
 
 **PÓS-CERCO** 
 
