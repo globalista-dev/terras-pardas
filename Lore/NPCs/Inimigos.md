@@ -8,4 +8,4 @@ Membro da [[Nathrak]] infiltrado na Guarda Real, é amigo de infância de Aldric
 Apontado como líder da Nathrak, *de facto* é apenas seu porta-voz. Seu papel é, também, despistar que Tarnis é seu real líder.
 
 #### Pai de Crane
-Membro da Zaloth Yatûl
+Membro da Zaloth Yatûl. Em um acerto, tem 1/6 (1d6) de chance de envenenar.
