@@ -58,15 +58,17 @@ Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
 
 *Troll*
 
-**AC** 15 **Initiative +1 (11)** **HP** 94 **Speed** 30 ft.
-*Skill      Mod Save*   
-**STR**  18  +4  +4
+**AC** 15    **Initiative +1 (11)**    **HP** 94     **Speed** 30 ft.
+*Skill          Mod     Save*   
+**STR**  18    +4      +4
 
 
-|       |                    |       |              |
-| ----- | ------------------ | ----- | ------------ |
-| AC 15 | Initiative +1 (11) | HP 94 | Speed 30 ft. |
-|       |                    |       |              |
+| Troll      |                        |           |                  |
+| ---------- | ---------------------- | --------- | ---------------- |
+| **AC** 15  | **Initiative** +1 (11) | **HP** 94 | **Speed** 30 ft. |
+| *Skill*    | *Mod*     *Save*       | *Skill*   | *Mod*     *Save* |
+| **STR** 18 | +4        +4           | **INT** 7 | -2         -2    |
+|            |                        |           |                  |
 
 
 
