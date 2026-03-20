@@ -50,8 +50,8 @@ Todo round, rode um d20 para cada lado da batalha. Um d3 determina o que o lado 
 
 Depois, role um d2 para determinar o pool de eventos. Estes não se repetem, reduza o dado a cada rolada.
 
-Pool 1: 2, 3, 4, 5, 9 (d5-d4-d3-d2-d1)
-Pool 2: 1, 6, 7, 8, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
+Pool 1: 2, 2, 2 3, 4, 5, 9 (d5-d4-d3-d2-d1)
+Pool 2: 1, 6, 7, 8, 10, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
 
 ---
 
@@ -92,7 +92,6 @@ de atravessarem, os Invasores perdem 1 HP.          turnos, os invasores perdem 
 Se a ponte resistir, a Resistência perde 1 HP.          a Resistência perde 1 HP
 
 ---
-
 **7. Incêndio nas paliçadas**                              **8. Aríete de Tyr**
 
 Chamas sobem perto do portão. Se              Um aríete pesado alcança o portão! Se o desati-
@@ -108,6 +107,16 @@ a troca de turnos. Se desmascararem e con-          num setor fraco da paliçad
 tiverem o traidor, os Invasores perdem 1 MP            rem o assalto em 3 turnos, os invasores
 Se ele sabotar um guincho/portinhola, a                  perdem 1 HP. Se os inimigos tomarem a
 Resistência perde 1 HP.                                              posição, a Resistência perde 1 HP e 1 MP.
+
+---
+**11. Segurem o estandarte**                                      **12. Cavalaria de choque**
+
+Uma companhia inimiga exibe o estan-                Um destacamento inimigo tenta romper o
+darte da Legião sob as muralhas. Se                    portão principal. Se repelirem o assalto em
+capturarem o estandarte em 3 turnos,                  4 turnos, os Invasores perdem 1 HP. Se não
+os Invasores perdem 1 MP. Se falharem                a Resistência perde 1 HP.
+e a tropa escapar intacta, a Resistência
+perde 1 MP.
 
 ---
 
