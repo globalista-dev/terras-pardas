@@ -68,7 +68,7 @@ Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
 | ***Rend***        | *Melee Roll* +7, 10ft. | *Hit*: 2d6+4 Sl. | (A)              |
 |                   |                        |                  |                  |
 
-
+![[GetImage.png]]
 
 
 
