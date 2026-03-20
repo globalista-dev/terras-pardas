@@ -51,11 +51,12 @@ Todo round, rode um d20 para cada lado da batalha. Um d3 determina o que o lado 
 Depois, role um d2 para determinar o pool de eventos. Estes não se repetem, reduza o dado a cada rolada. ^35f9f9
 
 **[[6ª Sessão#POOL 1 6ª Sessão 35f9f9 (voltar)|Pool 1]]:** (d7-d6-d5-d4-d3-d2-d1)
-Riscar (2 ~): 1, 1, 1, 2, 3, 4, 5 
+Riscar (2 ~):   1   1   1   2   3   4   5
 Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª Sessão#^2cf212|Evento 3]]  [[6ª Sessão#^f4f98f|Eventos 4 & 5]]
 
-**[[6ª Sessão#POOL 2 6ª Sessão 35f9f9 (voltar)|Pool 2]]:** (d8-d7-d6-d5-d4-d3-d2-d1)
-Riscar (2 ~)
+**[[6ª Sessão#POOL 2 6ª Sessão 35f9f9 (voltar)|Pool 2]]:** (d9-d8-d7-d6-d5-d4-d3-d2-d1)
+Riscar (2 ~):   1   2   3   4   5   5   6   7   7
+Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão]]
 
 1, 6, 7, 8, 10, 10, 11, 12, 13 
 
@@ -97,38 +98,29 @@ Se a ponte resistir, a Resistência perde 1 HP.          HP. Senão, a Resistên
 #### POOL 2 [[6ª Sessão#^35f9f9|(voltar)]]
 
 **1. Um troll conseguiu invadir o campo!** [[6ª Sessão#^35f9f9|(voltar)]]
-Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
+Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos ^3085d6
 
 ![[troll_stats.png|376]]
 
 ---
 
-**6. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                  **7. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]]
+**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                  **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]]
 
 Um túnel inimigo está prester a se romper           Chamas sobem perto do portão. Se apaga-
 sob uma torre! Se o colapsarem em até 3            rem o fogo em até 2 turnos, os invasores
-turnos, os invasores perdem 1 HP. Senão,           p
-a Resistência perde 1 HP
+turnos, os invasores perdem 1 HP. Senão,            perdem 1 MP. Senão, a Resistência perde 1
+a Resistência perde 1 HP                                         HP.
 
 ---
-**7. Incêndio nas paliçadas**                              **8. Aríete de Tyr**
+**4. Aríete de Tyr** [[6ª Sessão#^35f9f9|(voltar)]]                                          **5. Chuva de Armas de Cerco** [[6ª Sessão#^35f9f9|(voltar)]]
 
-Chamas sobem perto do portão. Se              Um aríete pesado alcança o portão! Se o desati-
-apagarem o fogo em até 2 turnos,                 varem ou destruírem em até 2 turnos, os inva-
-os invasores perdem 1 MP, senão, a              sores perdem 1 HP. Senão, a Resistência perde
-Resistência perde 1 HP.                                   1 HP.
-
----
-**9. Traidor na Muralha**                                                **10. Chuva de Armas de Cerco**
-
-Um sentinela age de modo suspeito durante           Escadas e ganchos surgem em massa
-a troca de turnos. Se desmascararem e con-          num setor fraco da paliçada. Se repeli-
-tiverem o traidor, os Invasores perdem 1 MP            rem o assalto em 3 turnos, os invasores
-Se ele sabotar um guincho/portinhola, a                  perdem 1 HP. Se os inimigos tomarem a
-Resistência perde 1 HP.                                              posição, a Resistência perde 1 HP e 1 MP.
+Um aríete pesado alcança o portão! Se o             Escadas e ganchos surgem num setor fraco
+desativarem ou destruírem em até 2 tur-              da paliçada. Se repelirem o assalto em até
+nos, os invasores perdem 1 HP. Senão, a             3 turnos, os invasores perdem 1 HP. Se to-
+Resistência perde 1 HP.                                          marem a posição, a Resistência perde 1 HP.
 
 ---
-**11. Segurem o estandarte**                                      **12. Cavalaria de choque**
+**6. Segurem o estandarte** [[6ª Sessão#^35f9f9|(voltar)]]                        **7. Cavalaria de choque** [[6ª Sessão#^35f9f9|(voltar)]]
 
 Uma companhia inimiga exibe o estan-                Um destacamento inimigo tenta romper o
 darte da Legião sob as muralhas. Se                    portão principal. Se repelirem o assalto em
@@ -140,7 +132,7 @@ perde 1 MP.
 ---
 
 
-**PÓS-CERCO** 
+#### PÓS-CERCO 
 
 Partes do acampamento ainda ardem em chamas, e o cheiro de madeira queimada se mistura ao de sangue e terra revirada. Alguns postos de guarda não existem mais, e certas faces que deveriam estar ali, não estavam. O núcleo do acampamento, porém, resistira, e com ele, a Resistência Livre. 
 
