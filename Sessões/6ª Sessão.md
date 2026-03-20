@@ -50,8 +50,37 @@ Todo round, rode um d20 para cada lado da batalha. Um d3 determina o que o lado 
 
 Depois, role um d2 para determinar o pool de eventos. Estes não se repetem, reduza o dado a cada rolada.
 
-Pool 1: 2, 2, 2 3, 4, 5, 9 (d5-d4-d3-d2-d1)
-Pool 2: 1, 6, 7, 8, 10, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
+**Pool 1:** 1, 1, 1, 2, 3, 4, 5 (d7-d6-d5-d4-d3-d2-d1)
+**Pool 2:** 1, 6, 7, 8, 10, 10, 11, 12, 13 (d8-d7-d6-d5-d4-d3-d2-d1)
+
+#### POOL 1
+
+**1. Vocês conseguiram encurralar cinco soldados da Legião de Tyr**
+Se derrotarem eles em menos de 3 turnos, os invasores perdem 1HP e 1MP, senão apenas 1HP.
+
+HP do Soldier é 22
+![[soldier_stats.png|385]]
+
+**2. Capture um líder inimigo!**
+Se capturado, o lado adversário perde 1 MP
+
+![[lider_stats.png|347]]
+
+**3. Necromante do Estandarte Cinzento**
+Um necromante anima cadáveres no fosso. Se neutralizarem em até 3 turnos, os Invasores perdem 1 MP. Se ele completar o rito, a Resistência perde 1 HP
+
+Necromante
+![[necromancer_stats.png]]
+
+![[zombie_stats.png]]
+
+**4. Ponte que Cede**                                                     **5. Traidor na Muralha
+
+O inimigo tenta cruzar o rio em uma ponte              Um sentinela age de modo suspeito du-
+improvisada. Se destruírem a ponte antes               rante a troca de turnos. Se o capturarem
+de atravessarem, os Invasores perdem 1 HP.          em até 3 turnos, os invasores perdem 1
+Se a ponte resistir, a Resistência perde 1 HP.          HP. Senão, a Resistência perde 1 HP.
+
 
 ---
 
@@ -60,30 +89,7 @@ Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos
 
 ![[troll_stats.png|376]]
 
----
 
-**2. Vocês conseguiram encurralar cinco soldados da Legião de Tyr**
-Se derrotarem eles em menos de 3 turnos, os invasores perdem 1HP e 1MP, senão apenas 1HP.
-
-HP do Soldier é 22
-![[soldier_stats.png|385]]
-
----
-**3. Capture um líder inimigo!**
-Se capturado, o lado adversário perde 1 MP
-
-![[lider_stats.png|347]]
-
----
-**4. Necromante do Estandarte Cinzento**
-Um necromante anima cadáveres no fosso. Se neutralizarem em até 3 turnos, os Invasores perdem 1 MP. Se ele completar o rito, a Resistência perde 1 HP
-
-Necromante
-![[necromancer_stats.png]]
-
-![[zombie_stats.png]]
-
----
 **5. Ponte que Cede**                                                     **6. Túnel descoberto**
 
 O inimigo tenta cruzar o rio em uma ponte              Um túnel inimigo está prester a se romper
