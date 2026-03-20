@@ -18,4 +18,7 @@ Comandante do Batalhão de Ataque da Resistência Livre
 ![[batund_stats.png]]
 
 #### Elara
-Comandante da Corporação de Curandeiros da Resistência Livre
+Comandante da Corporação de Curandeiros da Resistência Livre![[elara_stats.png]]
+
+#### Veran
+Comandante dos batedores da Resistência Livre![[veran_stats.png]]
