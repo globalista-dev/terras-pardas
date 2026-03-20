@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6658e7effc7c907",
+        "id": "7fa92a133ffdf0d8",
         "type": "tabs",
         "children": [
           {
-            "id": "31647870d2e86606",
+            "id": "52f1769ff0578942",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31647870d2e86606",
+  "active": "52f1769ff0578942",
   "lastOpenFiles": [
+    "Imagens/Stats/soldier_stats.png",
+    "Imagens/Stats/lider_stats.png",
+    "Imagens/Stats/necromancer_stats.png",
+    "Imagens/Stats/troll_stats.png",
+    "Sessões/6ª Sessão.md",
+    "Imagens/Stats",
+    "Imagens",
     "GetImage.png",
     "Sessões/3ª Sessão.md",
     "Sessões/2ª Sessão.md",
@@ -204,7 +211,6 @@
     "Lore/Eventos/Fundação das Terras Pardas.md",
     "Lore/Locais/Bath'bathal.md",
     "Lore/Facções & Grupos/Culto de Myrkul.md",
-    "Sessões/6ª Sessão.md",
     "Sessões/5ª Sessão.md",
     "Lore/Locais/Terras Pardas.md",
     "Lore/Eventos",
