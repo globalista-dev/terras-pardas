@@ -66,7 +66,13 @@ Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão#^b946ce|Eventos 2 & 3]]  
 
 **SE O EVENTO FOR POOL 1, 1-2-3, OU POOL 2, 7 ROLE UM d3. SE FOR 1, O PAI DE CRANE APARECE:**
 
-Crane, em meio à confusão do cerco, você vê uma imagem que imediatamente te lança um calafrio 
+Crane, em meio à confusão do cerco, você vê uma imagem que imediatamente te lança um calafrio. Ao longe, em cima de uma pequena colina perto do fim da clareira, um homem de armadura preta monta em um cavalo cor de ébano e segura uma longa lança. Mesmo sem ver sua face, envolta por um capacete, você o reconhece: é seu pai.
+
+Tão rápido quanto esse pensamento passa pela sua cabeça, seu pai sai em disparada, com a lança em riste, na sua direção.
+
+**Quando Crane for atingido**
+
+Quando a lança perfura sua pele acima da axila direita, você não sente dor. Um frio inexplicável imediatamente toma conta do seu braço, e você sente ele se expandir como água que escorre para o resto do seu corpo. Você não sabe o que é isso, mas sabe que há algo incrivelmente errado.
 
 [[6ª Sessão#PÓS-CERCO|Ir para pós-cerco]]
 
