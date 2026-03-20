@@ -14,7 +14,7 @@ Oblitus: "Acalme-se, Batund. Ao menos temos que pensar em como nos defender." 
 
 **OUTROS NPCS:** 
 
-Batund: comandante de um batalhão de ataque 
+Batund: comandante do batalhão de ataque 
 
 Elara: elfa de cabelos claros; comandante dos curandeiros 
 

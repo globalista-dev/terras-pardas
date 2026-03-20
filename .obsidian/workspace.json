@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessões/6ª Sessão.md",
+                "file": "Lore/NPCs/Aliados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6ª Sessão"
+              "title": "Aliados"
             }
           }
         ]
@@ -184,16 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda6e2027eb93192",
+  "active": "52f1769ff0578942",
   "lastOpenFiles": [
+    "Sessões/6ª Sessão.md",
+    "Lore/NPCs/Aliados.md",
+    "Imagens/Stats/batund_stats.png",
+    "Imagens/Stats/elara_stats.png",
     "Imagens/Stats/oblitus_stats.png",
+    "Imagens/Stats/veran_stats.png",
     "Imagens/Stats/Pasted image.png",
     "Untitled.md",
-    "Sessões/6ª Sessão.md",
     "Lore/Eventos/Fundação das Terras Pardas.md",
     "Lore/Eventos/A Grande Reunificação.md",
     "Lore/Locais/Sylvandor.md",
-    "Lore/NPCs/Aliados.md",
     "Lore/Locais/Confederação Yi-Ti.md",
     "Lore/Locais/Reino Humano de Arda.md",
     "Lore/Facções & Grupos/Culto de Myrkul.md",
@@ -204,7 +207,6 @@
     "Imagens/Stats/troll_stats.png",
     "Imagens/Stats",
     "Imagens",
-    "GetImage.png",
     "Sessões/3ª Sessão.md",
     "Sessões/2ª Sessão.md",
     "Sessões/1ª Sessão.md",

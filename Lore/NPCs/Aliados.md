@@ -10,3 +10,12 @@ Filha de Boromir II e Boromira III, é dada como desaparecida, mas com paradeiro
 
 #### Oblitus Salvatoris
 *Nom de guerre* de Salos Valdorni, o líder da [[Resistência Livre]]. É chamado de General pelos membros da Resistência.
+
+![[oblitus_stats.png]]
+
+#### Batund
+Comandante do Batalhão de Ataque da Resistência Livre
+![[batund_stats.png]]
+
+#### Elara
+Comandante da Corporação de Curandeiros da Resistência Livre
