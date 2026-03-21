@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/NPCs/Aliados.md",
+                "file": "Lore/Facções & Grupos/Nathrak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aliados"
+              "title": "Nathrak"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "52f1769ff0578942",
   "lastOpenFiles": [
+    "Lore/NPCs/Aliados.md",
     "Lore/NPCs/Inimigos.md",
     "Lore/Locais/Cidade de Latão.md",
     "Lore/Locais/Confederação Yi-Ti.md",
@@ -193,7 +194,6 @@
     "Lore/Locais/Reino Humano de Arda.md",
     "Imagens/Stats/pai_do_crane_stats.png",
     "Sessões/6ª Sessão.md",
-    "Lore/NPCs/Aliados.md",
     "Sessões/5ª Sessão.md",
     "Sessões/3ª Sessão.md",
     "Imagens/Stats/batund_stats.png",
