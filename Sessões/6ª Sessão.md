@@ -120,7 +120,7 @@ Até vocês o derrotarem, a Resistência perde 1 HP a cada dois turnos ^3085d6
 
 ---
 
-**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(volt[[#^35f9f9]]ar)]]                                  **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]] ^b946ce
+**2. Túnel descoberto** [[6ª Sessão#^35f9f9|(voltar)]]                                   **3. Incêndio nas paliçadas** [[6ª Sessão#^35f9f9|(voltar)]] ^b946ce
 
 Um túnel inimigo está prester a se romper           Chamas sobem perto do portão. Se apaga-
 sob uma torre! Se o colapsarem em até 3            rem o fogo em até 2 turnos, os invasores
