@@ -66,7 +66,7 @@ Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão#^b946ce|Eventos 2 & 3]]  
 
 **SE O EVENTO FOR POOL 1, 1-2-3, OU POOL 2, 7 ROLE UM d3. SE FOR 1, O PAI DE CRANE APARECE:**
 
-Crane, em meio à confusão do cerco, você vê uma imagem que imediatamente te lança um calafrio. Ao longe, em cima de uma pequena colina perto do fim da clareira, um homem de armadura preta monta em um cavalo cor de ébano e segura uma longa lança. Mesmo sem ver sua face, envolta por um capacete, você o reconhece: é seu pai.
+Crane, em meio à confusão do cerco, você vê uma imagem que imediatamente te lança um calafrio. Ao longe, em cima de uma pequena colina perto do fim da clareira, um homem de armadura preta monta em um cavalo cor de ébano e segura uma longa lança. Mesmo sem ver sua face, envolta por um capacete, você o reconhece: é seu pai, [[Inimigos#Morgan MacGuilliman|Morgan MacGuilliman]].
 
 Tão rápido quanto esse pensamento passa pela sua cabeça, seu pai sai em disparada, com a lança em riste, na sua direção.
 
@@ -168,7 +168,12 @@ Entretanto, sabe que os elfos de Thyal Dorthorë têm um artefato, cujas mençõ
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
 
-As árvores ficam mais altas. Os sons da floresta mudam de registro. A luz que chega no chão não é a filtrada de uma floresta comum, é mais dourada e constante. O ar carrega um cheiro de terra e musgo que não desagrada, mas que pesa. Cheiro de um lugar que existe há muito mais tempo do que qualquer coisa que vocês já viram. 
+As árvores ficam mais altas. Os sons da floresta mudam de registro. A luz que chega no chão não é a filtrada de uma floresta comum, é mais dourada e constante. O ar carrega um cheiro de terra e musgo que não desagrada, mas que pesa. Cheiro de um lugar que existe há muito mais tempo do que qualquer coisa que vocês já viram.
+
+##### Encontro #1
+Enquanto vocês avançam pela floresta, os sons ao redor vão gradualmente cessando. Primeiro os pássaros, depois os insetos até um silêncio quase absoluto se instalar. **PC QUE ESTÁ NA FRENTE***, você vê um lobo em cima de um tronco de árvore caído. Quando vocês olham em volta, estão completamente cercados por uma matilha.
+
+**PC QUE TEM PASSIVE PERCEPTION OU**
 
 A sensação de estar sendo observado começa cedo e nunca passa. Não é ameaçadora. É apenas a certeza silenciosa de que a floresta sabe que eles estão ali, e que está decidindo o que fazer com esta informação.  
 
