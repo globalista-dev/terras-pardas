@@ -11,10 +11,14 @@
             "id": "f677ade93c72b5ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locais/Reino Humano de Arda.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reino Humano de Arda"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "f677ade93c72b5ab",
   "lastOpenFiles": [
+    "Lore/Locais/Cidade de Latão.md",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
     "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
     "Imagens/Mapas/Mapa RPG.pdn",
@@ -194,7 +199,6 @@
     "Lore/NPCs/Inimigos.md",
     "Lore/Facções & Grupos/Nathrak.md",
     "Lore/NPCs/Aliados.md",
-    "Lore/Locais/Cidade de Latão.md",
     "Lore/Locais/Confederação Yi-Ti.md",
     "Lore/Locais/Império Ameriano.md",
     "Lore/Locais/Reino Humano de Arda.md",

@@ -6,5 +6,15 @@ Capital do Reino Humano de Arda, é um entreposto comercial e um porto consider�
 #### Dobravento
 Pequeno vilarejo agrário composto de uma dúzia de casas, um moinho próximo ao rio e um altar para Chauntea em suas proximidades. Foi vítima de um ataque do Culto de Myrkul há décadas, quando este ainda estava surgindo. 
 
+#### Fundágua
+Grande cidade portuária na Baía Rachada
+
+#### Passa Fora
+
+#### Vila de Marca
+
+#### Pontoeste
+Pequena vila no extremo oeste do Reio de Arda. Marca a fronteira entre este e as florestas de Sylvandor.
+
 
 
