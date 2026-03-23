@@ -15,3 +15,4 @@ Cidade portuária nas Terras Pardas. Conhecida por suas festas locais relacionad
 #### Zirith 
 Vilarejo agrário próximo a Umbraalor destruído em um ataque da Nathrak durante a [[1ª Sessão|primeira sessão]]
 
+#### Kayakayanaya
