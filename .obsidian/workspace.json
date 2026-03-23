@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Imagens/Mapas/Mapa RPG - Antes de Boromir.png"
+                "file": "Imagens/Mapas/Mapa RPG - Segundo ato.png"
               },
               "icon": "lucide-image",
-              "title": "Mapa RPG - Antes de Boromir"
+              "title": "Mapa RPG - Segundo ato"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "52f1769ff0578942",
   "lastOpenFiles": [
+    "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
     "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
-    "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
     "Sessões/6ª Sessão.md",
     "Imagens/Mapas/Mapa RPG.pdn",
     "Imagens/Mapas/Mapa RPG - Segundo ato.pdn",
