@@ -2,3 +2,5 @@ Reino de florestas frondosas e árvores milenares tão antigas quanto os animais
 
 #### Thyal Dorthorë
 Uma das poucas cidades de Sylvandor onde seus habitantes ocupam o solo da floresta. Nele, estruturas de pedra clara se entrelaçam com raízes de imensas árvores. Escadas naturais e construídas sobem para grandes passarelas de madeira que interconectam gigantescas plataformas circulares de madeira cuidadosamente apoiadas nas árvores. Possui um grande palácio, onde reside o Ancião Aerindel, governante da nação.
+
+#### Llias
