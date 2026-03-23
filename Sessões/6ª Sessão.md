@@ -171,9 +171,15 @@ A floresta de Sylvandor não começa com uma fronteira clara. Não há portões,
 As árvores ficam mais altas. Os sons da floresta mudam de registro. A luz que chega no chão não é a filtrada de uma floresta comum, é mais dourada e constante. O ar carrega um cheiro de terra e musgo que não desagrada, mas que pesa. Cheiro de um lugar que existe há muito mais tempo do que qualquer coisa que vocês já viram.
 
 ##### Encontro #1
-Enquanto vocês avançam pela floresta, os sons ao redor vão gradualmente cessando. Primeiro os pássaros, depois os insetos até um silêncio quase absoluto se instalar. **PC QUE ESTÁ NA FRENTE***, você vê um lobo em cima de um tronco de árvore caído. Quando vocês olham em volta, estão completamente cercados por uma matilha.
+Enquanto vocês avançam pela floresta, os sons ao redor vão gradualmente cessando. Primeiro os pássaros, depois os insetos até um silêncio total se instalar. **PC QUE ESTÁ NA FRENTE***, você vê um lobo em cima de um tronco de árvore caído. Quando vocês olham em volta, estão completamente cercados por uma matilha.
 
-**PC QUE TEM PASSIVE PERCEPTION OU**
+**PC QUE TEM PASSIVE PERCEPTION OU NATURE MAIS ALTO**, você nota algo curioso, para dizer o mínimo. Normalmente, lobos se comunicam através de rosnados e uivos. Esses lobos, porém, estão em silêncio absoluto.
+
+**INVESTIGATION, SURVIVAL, NATURE, ETC. DC 6**: Você encosta em um dos lobos e imediatamente percebe algo de errado. Seu corpo está completamente frio, e parte de sua pele abaixo do pelo está podre. Este lobo está morto há dias.
+
+##### Encontrol #2 -- Maermor
+
+Após seu encontro 
 
 A sensação de estar sendo observado começa cedo e nunca passa. Não é ameaçadora. É apenas a certeza silenciosa de que a floresta sabe que eles estão ali, e que está decidindo o que fazer com esta informação.  
 
@@ -211,7 +217,8 @@ Aerindel entrelaça seus dedos sobre os joelhos, sem mudar sua postura. 
 
 O mesmo servo puxa cadeiras uma a uma e faz um gesto para vocês se sentarem à frente de Aerindel. 
 
-Índice:
+##### Índice:
+
 
 ##### Vocês têm o Contrapeso? 
 "De tal artefato haveis vindo em busca, e tal artefato aqui existe. Mais tempo há que o Contrapeso repousa sob nossa guarda do que anos contam os alicerces de Umbraalor. Recebemo-lo porque nenhum outro era digno de sua custódia." 
