@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locais/Sylvandor.md",
+                "file": "Lore/Locais/Bath'bathal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sylvandor"
+              "title": "Bath'bathal"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "f677ade93c72b5ab",
   "lastOpenFiles": [
+    "Lore/Locais/Sylvandor.md",
     "Lore/Locais/Reino Humano de Arda.md",
     "Lore/Locais/Cidade de Latão.md",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
@@ -213,7 +214,6 @@
     "Untitled.md",
     "Lore/Eventos/Fundação das Terras Pardas.md",
     "Lore/Eventos/A Grande Reunificação.md",
-    "Lore/Locais/Sylvandor.md",
     "Lore/Facções & Grupos/Culto de Myrkul.md",
     "Imagens/Stats",
     "Imagens",
