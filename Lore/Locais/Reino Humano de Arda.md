@@ -7,9 +7,10 @@ Capital do Reino Humano de Arda, é um entreposto comercial e um porto consider�
 Pequeno vilarejo agrário composto de uma dúzia de casas, um moinho próximo ao rio e um altar para Chauntea em suas proximidades. Foi vítima de um ataque do Culto de Myrkul há décadas, quando este ainda estava surgindo. 
 
 #### Fundágua
-Grande cidade portuária na Baía Rachada
+Grande cidade portuária na Baía Rachada. É construída parcialmente em cima de um antigo pântano transformado em uma miríade de canais que cortam a cidade.
 
 #### Passa Fora
+Vila mais a leste do Reio de Arda. Fica à beira da boca do Rio Âmbar. Do lado oposto do Rio, ficam as Montanhas de Pó da Confederação Yi-Ti, onde a vegetação de pradaria já começa a ser substituída por um deserto.
 
 #### Vila de Marca
 
