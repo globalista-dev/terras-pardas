@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locais/Bath'bathal.md",
+                "file": "Lore/Locais/Terras Pardas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bath'bathal"
+              "title": "Terras Pardas"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "f677ade93c72b5ab",
   "lastOpenFiles": [
+    "Lore/Locais/Bath'bathal.md",
     "Lore/Locais/Sylvandor.md",
     "Lore/Locais/Reino Humano de Arda.md",
     "Lore/Locais/Cidade de Latão.md",
@@ -222,7 +223,6 @@
     "Lore/Locais/Terras Esquecidas.md",
     "Lore/Facções & Grupos/Resistência Livre.md",
     "Lore/Facções & Grupos/Legião de Tyr.md",
-    "Lore/Locais/Bath'bathal.md",
     "Lore/Locais/Terras Pardas.md",
     "Lore/Eventos",
     "Lore/PCs.md",
