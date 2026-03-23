@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa92a133ffdf0d8",
+        "id": "43cc38269ae4744f",
         "type": "tabs",
         "children": [
           {
-            "id": "52f1769ff0578942",
+            "id": "f677ade93c72b5ab",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/Mapas/Mapa RPG - Segundo ato.png"
-              },
-              "icon": "lucide-image",
-              "title": "Mapa RPG - Segundo ato"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -182,16 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52f1769ff0578942",
+  "active": "f677ade93c72b5ab",
   "lastOpenFiles": [
-    "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
-    "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
-    "Sessões/6ª Sessão.md",
+    "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
     "Imagens/Mapas/Mapa RPG.pdn",
-    "Imagens/Mapas/Mapa RPG - Segundo ato.pdn",
     "Imagens/Mapas/Mapa RPG - Antes de Boromir.pdn",
+    "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
+    "Imagens/Mapas/Mapa RPG - Segundo ato.pdn",
     "Imagens/Mapas",
+    "Sessões/6ª Sessão.md",
     "Imagens/Mapas/Mapa para Claude.png",
     "Lore/NPCs/Inimigos.md",
     "Lore/Facções & Grupos/Nathrak.md",
