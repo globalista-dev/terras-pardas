@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Imagens/Mapas/Mapa RPG - Segundo ato.png"
+                "file": "Imagens/Mapas/Mapa RPG - Primeiro Ato.png"
               },
               "icon": "lucide-image",
-              "title": "Mapa RPG - Segundo ato"
+              "title": "Mapa RPG - Primeiro Ato"
             }
           }
         ]
@@ -182,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52f1769ff0578942",
+  "active": "cda6e2027eb93192",
   "lastOpenFiles": [
-    "Sessões/6ª Sessão.md",
+    "Imagens/Mapas/Mapa para Claude.png",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
+    "Sessões/6ª Sessão.md",
     "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
     "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
     "Imagens/Mapas",
