@@ -179,7 +179,7 @@ Enquanto vocês avançam pela floresta, os sons ao redor vão gradualmente cessa
 
 ##### Encontrol #2 -- Maermor
 
-Após seu encontro com a matilha, vocês recolhem suas coisas e seguem na jornada. À frente, vocês sabem, ainda resta muita floresta até Thyal Dorthorë. Os sons de pássaros e insetos voltam
+Após seu encontro com a matilha, vocês recolhem suas coisas e seguem na jornada. À frente, vocês sabem, ainda resta muita floresta até Thyal Dorthorë. Os sons de pássaros e insetos voltam a soar no fundo, iluminados pela luz
 
 ##### Caminho final para Thyal Dorthorë
 
