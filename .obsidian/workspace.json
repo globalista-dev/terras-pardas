@@ -33,7 +33,8 @@
               "title": "Mapa RPG - Segundo ato"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f677ade93c72b5ab",
+  "active": "de973476a3998d88",
   "lastOpenFiles": [
-    "Imagens/Mapas/Mapa RPG - Segundo ato.png",
     "Sessões/6ª Sessão.md",
+    "Imagens/Mapas/Mapa RPG - Segundo ato.png",
     "Lore/NPCs/Inimigos.md",
     "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
     "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
