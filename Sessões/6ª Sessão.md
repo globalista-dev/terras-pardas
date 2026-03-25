@@ -64,9 +64,11 @@ Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª
 Riscar (2 ~):   1   2   3   4   5   5   6   7   7
 Links: [[6ª Sessão#^3085d6|Evento 1]]  [[6ª Sessão#^b946ce|Eventos 2 & 3]]  [[6ª Sessão#^bfb79e|Eventos 4 & 5]]  [[6ª Sessão#^899fc9|Eventos 6 & 7]]
 
-**SE O EVENTO FOR POOL 1, 1-2-3, OU POOL 2, 7 ROLE UM d3. SE FOR 1, O PAI DE CRANE APARECE:**
+**SE O EVENTO FOR POOL 1, 1-2-3, OU POOL 2, 7 ROLE UM d3. SE FOR 1, O PAI DE CRANE APARECE. NÃO SE REPETE.**
 
 Crane, em meio à confusão do cerco, você vê uma imagem que imediatamente te lança um calafrio. Ao longe, em cima de uma pequena colina perto do fim da clareira, um homem de armadura preta monta em um cavalo cor de ébano e segura uma longa lança. Mesmo sem ver sua face, envolta por um capacete, você o reconhece: é seu pai, [[Inimigos#Morgan MacGuilliman|Morgan MacGuilliman]].
+
+Você olha em volta, Crane, e um calafrio desce por sua espinha. Perto de você, casas e tendas ardem em chamas. Homens e mulheres da Resistência correm com lanças, espadas e escudos, lutando contra soldados cuja face é encoberta por sua armadura. Você já viu isso antes. Lathander já havia lhe mostrado.
 
 Tão rápido quanto esse pensamento passa pela sua cabeça, seu pai sai em disparada, com a lança em riste, na sua direção.
 
@@ -176,9 +178,17 @@ Oblitus pode sugerir duas rotas:
 Opção 1: [[6ª Sessão#Kayakayanaya|Kayakayanaya]]
 Opção 2: [[6ª Sessão#Rota Terrestre|Rota Terrestre]]
 
-Depois de qualquer uma das duas: [[6ª Sessão#Flor]]
+Depois de qualquer uma das duas: [[6ª Sessão#Floresta|Floresta]]
 
 ##### Kayakayanaya
+
+**Quem vai liderar o grupo?** Survival DC 8 para achar o caminho. Se não achar, gerar encontro com 6 goblins antes de chegar.
+
+Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu caminho em busca da grande estrada que l
+
+**ENCONTRO COM GOBLINS EM CASO DE FALHA**
+
+Kayakayanaya se anuncia pelo cheiro antes de se revelar pela vista — sal, peixe, madeira alcatroada e o suor coletivo de uma cidade que nunca para de trabalhar. Quando as primeiras construções aparecem entre as árvores, o que se vê é uma cidade que cresceu sem planejamento, empurrada pela lógica do porto: tudo converge para a água. As ruas descem em declive irregular até o cais, onde dezenas de embarcações de todos os tamanhos balançam presas às docas. Armazéns de madeira escura flanqueiam cada ruela. Homens carregam fardos. Mulheres negociam em voz alta. Crianças correm entre as pernas de todos.
 
 ##### Rota Terrestre
 ##### Floresta
