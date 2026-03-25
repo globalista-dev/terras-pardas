@@ -164,9 +164,24 @@ Subitamente, um grito interrompe os pensamentos de vocês. "Olhe! Ali, na borda 
 
 Entretanto, sabe que os elfos de Thyal Dorthorë têm um artefato, cujas menções são raras e antigas, capaz de neutralizar os efeitos da Coroa. Seu nome é Eler Nthandz, o Contrapeso ou a Chave Inversa. 
 
-As falas do homem mascarado são interrompidas pelo grito de dor de Crane. Vocês veem Elara, a comandante dos curandeiros, colocando em sua boca um apanhado de ervas. "Eu... Eu não sei o que é isso..."
+As falas do homem mascarado são interrompidas pelo grito de dor de Crane. Vocês veem Elara, a comandante dos curandeiros, colocando em sua boca um apanhado de ervas. "Eu... Eu não sei o que é isso... Nada que fazemos resolve..." Ela vira para vocês com a face ainda suja da batalha "Sua única esperança para ele está, também, nos elfos. Fale com Aerindel, clame por seus curandeiros."
+
+**Aqui, os jogadores conversam sobre o que vão fazer**
+Oblitus pode sugerir duas rotas:
+1) Ir até Kayakayanaya, roubar um navio e parar na costa sul de Sylvandor; mais arriscado
+2) Atravessar as Terras Pardas a pé, passar pelas Montanhas Azuis e descer pelas florestas de Sylvandor até Thyal Dorthorë
 
 #### **JORNADA ATÉ THYAL DORTHORË** 
+
+Opção 1: [[6ª Sessão#Kayakayanaya|Kayakayanaya]]
+Opção 2: [[6ª Sessão#Rota Terrestre|Rota Terrestre]]
+
+Depois de qualquer uma das duas: [[6ª Sessão#Flor]]
+
+##### Kayakayanaya
+
+##### Rota Terrestre
+##### Floresta
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
 
