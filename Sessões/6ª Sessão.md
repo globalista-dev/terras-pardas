@@ -292,7 +292,7 @@ Seguindo seu caminho, vocês buscam, talvez, um lugar menos macabro para acampar
 **PCs precisam acampar antes de prosseguir**
 
 Primeiro vilarejo: Poço da Flecha
-Segundo vilarejo: 
+Segundo vilarejo: Riachobranco
 ##### Floresta
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
