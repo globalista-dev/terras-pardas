@@ -40,7 +40,7 @@ Ações de fuga ou moral: +1MP 
 
 Veran: "Não dá tempo... Não vamos conseguir evacuar pessoas, suprimentos e armas em menos de um dia. Podemos preparar uma rota, caso ela seja necessária. O conflito em si não pode ser evitado" 
 
-**CERCO DO CAMPO**
+#### CERCO DO CAMPO
 
 Resistência- MP: 5; HP: 5 (Adicionar bônus)
 Exército- MP: 10; HP: 10
@@ -207,7 +207,7 @@ O porto, porém, é grande. E portos grandes têm muitos cantos escuros.
 
 **A guarda do cais:** dois soldados imperiais patrulham o cais sul a cada hora, em intervalos razoavelmente regulares. Uma verificação de Percepção (DC 12) ou Investigação (DC 13) após observação revela o padrão. Há também um vigia civil no final do cais — um velho pescador contratado pelos comerciantes locais — que não é imperial mas que gritaria se visse algo suspeito.
 
-##### O Roubo 
+**O Roubo** 
 O roubo funciona como uma sequência de verificações encadeadas, não como um único teste. Cada etapa tem consequências de sucesso e falha que não encerram a cena, mas a complicam.
 
 **Etapa 1 — Neutralizar ou distrair o vigia civil** O velho pescador é o obstáculo mais imprevisível — não é treinado, mas conhece o porto melhor do que qualquer soldado.
@@ -231,8 +231,7 @@ O roubo funciona como uma sequência de verificações encadeadas, não como um 
 
 **Se os soldados forem alertados:** Não atacam imediatamente — primeiro gritam uma ordem de parada e mandam buscar reforços. Os PCs têm uma rodada para decidir: combate, fuga acelerada no barco, ou blefe de última hora. Se o barco já estiver se movendo, perseguição a pé pelo cais é possível mas os PCs têm vantagem — nenhum barco imperial pequeno estará pronto para partir imediatamente.
 
-##### A Travessia da Baía
-
+**A Travessia da Baía**
 A baía é grande — não um lago, mas tampouco um oceano aberto. Com vento favorável, a travessia leva entre meio dia e um dia completo dependendo das condições. Sem vento, a remos, leva o dobro.
 
 **Condições da travessia:** Role 1d6 discretamente no início:
@@ -275,6 +274,11 @@ O vento não variou. Não amainava, não forçava demais, não mudava de direç�
 O barco encalhou na areia escura com um impacto suave. A floresta estava à frente, imóvel e densa e silenciosa.
 [[6ª Sessão#Floresta|Ir para Floresta]]
 ##### Rota Terrestre
+
+**Quem vai liderar o grupo?** Survival DC 12 para achar o caminho.
+
+Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu longo caminho até a Passagem  
+
 ##### Floresta
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
