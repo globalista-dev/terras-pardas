@@ -262,29 +262,18 @@ Não havia muito a fazer além de manter o curso e deixar o vento trabalhar. O b
 
 O silêncio que ficou era diferente do silêncio em terra. Vocês ouvem apenas o rangido suave do casco e o barulho da água partida pela proa.
 
-Era o tipo de pensamento que a imensidão da água provocava, e que era melhor deixar passar sem examinar com atenção.
-
-A costa de Sylvandor apareceu no fim da tarde — uma linha escura que foi crescendo devagar, ganhando textura, até revelar-se como o que era: árvores tão altas e tão juntas que pareciam uma muralha que alguém havia esquecido de terminar. A praia era estreita e escura. O barco encalhou suavemente na areia, e o silêncio da floresta os recebeu como se sempre soubesse que chegariam.
+A costa de Sylvandor apareceu no fim da tarde — uma linha escura que foi crescendo devagar, ganhando textura, até revelar-se como o que era: árvores tão altas e tão juntas que pareciam uma muralha que os deuses haviam esquecido de terminar. A praia era estreita e escura. O barco encalhou suavemente na areia, e o silêncio da floresta os recebeu como se sempre soubesse que chegariam.
+[[6ª Sessão#Floresta|Ir para Floresta]]
 
 **6**
-O vento veio do sul sem aviso e sem explicação meteorológica satisfatória — forte, constante, exatamente na direção certa, como se a baía tivesse decidido cooperar por razões próprias. As velas encheram com um estalo seco e o barco acelerou de uma forma que fez alguém se segurar instintivamente na borda.
+O vento veio do sul sem aviso e sem uma boa explicação meteorológica. As velas encheram com um estalo seco e o barco acelerou de uma forma que fez alguém se segurar instintivamente na borda.
 
-Kayakayanaya desapareceu rápido demais. Em menos tempo do que qualquer um havia calculado, não havia mais nada atrás deles exceto água, e à frente a costa de Sylvandor já era visível como uma mancha escura no horizonte — presente demais para a distância que deveriam ter percorrido.
+, e à frente a costa de Sylvandor já era visível como uma mancha escura no horizonte — presente demais para a distância que deveriam ter percorrido.
 
-O vento não variou. Não amainava, não forçava demais, não mudava de direção. Mantinha-se com uma regularidade que deixava de parecer meteorológica e começava a parecer intencional. Como se alguém, em algum lugar além da linha das árvores que se aproximavam rapidamente, soubesse que eles estavam vindo e tivesse decidido, por razões que não compartilharia, facilitar a viagem.
+O vento não variou. Não amainava, não forçava demais, não mudava de direção. Kayakayanaya desapareceu rápido demais. Em menos tempo do que qualquer um havia calculado, não havia mais nada atrás deles exceto água. A praia surgiu antes do que vocês esperavam. 
 
-A praia apareceu antes que estivessem prontos para ela. O barco encalhou na areia escura com um impacto suave, quase gentil. O vento cessou no mesmo instante — completamente, sem diminuir gradualmente, sem a hesitação natural do clima. Um momento havia vento; no seguinte, não havia.
-
-A floresta estava à frente, imóvel e densa e silenciosa.
-##### Desembarque
-A costa sul de Sylvandor não tem porto. Não tem doca. Não tem nada que indique que alguém esperava visitas.
-
-O que há é uma praia estreita de areia escura, encostada contra uma muralha de árvores que começa abruptamente onde a areia termina — sem transição, sem arbustos de beira de praia, sem área de vegetação rala. A floresta simplesmente começa, densa e alta e antiga, como se estivesse esperando ali desde antes de haver mar para separá-la do resto do mundo.
-
-O barco encalha na areia com um rangido surdo. Os PCs desembarcam com os pés molhados e o silêncio da floresta à frente — diferente do silêncio de qualquer floresta que já tenham atravessado. Mais completo. Mais atento.
-
-Não há trilha visível. Mas há, se alguém prestar atenção, uma ausência de galhos quebrados numa direção específica — como se algo passasse por ali regularmente sem deixar rastro, apenas espaço. A floresta não os convida. Mas tampouco os barra.
-
+O barco encalhou na areia escura com um impacto suave. A floresta estava à frente, imóvel e densa e silenciosa.
+[[6ª Sessão#Floresta|Ir para Floresta]]
 ##### Rota Terrestre
 ##### Floresta
 
