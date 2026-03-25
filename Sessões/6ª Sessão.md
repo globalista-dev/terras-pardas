@@ -277,7 +277,9 @@ O barco encalhou na areia escura com um impacto suave. A floresta estava à fren
 
 **Quem vai liderar o grupo?** Survival DC 12 para achar o caminho.
 
-Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu longo caminho até a Passagem de 
+Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu longo caminho até a Passagem de Dúathras, nas Montanhas Azuis, ou Ered Luin, como os elfos as chamam.
+
+Margeando a floresta
 
 ##### Floresta
 
