@@ -231,7 +231,7 @@ O roubo funciona como uma sequência de verificações encadeadas, não como um 
 
 **Se os soldados forem alertados:** Não atacam imediatamente — primeiro gritam uma ordem de parada e mandam buscar reforços. Os PCs têm uma rodada para decidir: combate, fuga acelerada no barco, ou blefe de última hora. Se o barco já estiver se movendo, perseguição a pé pelo cais é possível mas os PCs têm vantagem — nenhum barco imperial pequeno estará pronto para partir imediatamente.
 
-### A Travessia da Baía
+##### A Travessia da Baía
 
 A baía é grande — não um lago, mas tampouco um oceano aberto. Com vento favorável, a travessia leva entre meio dia e um dia completo dependendo das condições. Sem vento, a remos, leva o dobro.
 
