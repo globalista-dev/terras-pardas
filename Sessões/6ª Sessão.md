@@ -184,11 +184,52 @@ Depois de qualquer uma das duas: [[6ª Sessão#Floresta|Floresta]]
 
 **Quem vai liderar o grupo?** Survival DC 8 para achar o caminho. Se não achar, gerar encontro com 6 goblins antes de chegar.
 
-Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu caminho em busca da grande estrada que l
+Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu caminho em busca da grande estrada que liga a capital à cidade portuária de Kayakayanaya.
 
 **ENCONTRO COM GOBLINS EM CASO DE FALHA**
 
-Kayakayanaya se anuncia pelo cheiro antes de se revelar pela vista — sal, peixe, madeira alcatroada e o suor coletivo de uma cidade que nunca para de trabalhar. Quando as primeiras construções aparecem entre as árvores, o que se vê é uma cidade que cresceu sem planejamento, empurrada pela lógica do porto: tudo converge para a água. As ruas descem em declive irregular até o cais, onde dezenas de embarcações de todos os tamanhos balançam presas às docas. Armazéns de madeira escura flanqueiam cada ruela. Homens carregam fardos. Mulheres negociam em voz alta. Crianças correm entre as pernas de todos.
+Kayakayanaya se anuncia pelo cheiro antes de se revelar pela vista — sal, peixe, madeira alcatroada e o suor coletivo de uma cidade que nunca para de trabalhar. Quando as primeiras construções aparecem entre as árvores, o que se vê é uma cidade que cresceu sem planejamento, empurrada pela lógica do porto: tudo converge para a água. As ruas descem em declives irregulares até o cais, onde dezenas de embarcações de todos os tamanhos balançam presas às docas. Armazéns de madeira escura flanqueiam cada ruela. Homens carregam fardos. Mulheres negociam em voz alta. Crianças correm entre as pernas de todos.
+
+Há alguns soldados do Império presentes. Não em número suficiente para tornar a cidade uma fortaleza. Eles patrulham o cais em pares, verificam documentos de carga nas docas maiores. Devem, também, beber nas tavernas e ocupar os bordéis, de forma muito semelhante ao que acontecia antes da mudança de jurisdição.
+
+O porto, porém, é grande. E portos grandes têm muitos cantos escuros.
+
+**PARA O MESTRE**
+*Antes de roubar qualquer coisa, os PCs precisam entender o que está disponível e onde. Uma hora de observação discreta — de uma taberna, de um telhado, ou simplesmente caminhando pelo cais — revela o seguinte:*
+
+**O que há no porto:**
+
+- Navios mercantes grandes, atracados nas docas centrais, sob supervisão imperial direta. Fora de cogitação.
+- Barcos de pesca médios, de propriedade de pescadores locais, atracados nas docas sul. Vigiados pelos próprios donos durante o dia; abandonados à noite.
+- Pequenos escaler e botes de transporte, usados para levar carga e pessoas entre os navios maiores e a costa. Atracados em qualquer lugar disponível, sem vigilância constante.
+
+**O que os PCs precisam:** um barco pequeno capaz de cruzar a baía — o que exclui os botes menores, mas inclui os barcos de pesca médios. São robustos, têm vela, e um grupo de sete pessoas consegue operá-los sem experiência náutica formal, desde que alguém saiba o básico.
+
+**A guarda do cais:** dois soldados imperiais patrulham o cais sul a cada hora, em intervalos razoavelmente regulares. Uma verificação de Percepção (DC 12) ou Investigação (DC 13) após observação revela o padrão. Há também um vigia civil no final do cais — um velho pescador contratado pelos comerciantes locais — que não é imperial mas que gritaria se visse algo suspeito.
+
+##### O Roubo 
+O roubo funciona como uma sequência de verificações encadeadas, não como um único teste. Cada etapa tem consequências de sucesso e falha que não encerram a cena, mas a complicam.
+
+**Etapa 1 — Neutralizar ou distrair o vigia civil** O velho pescador é o obstáculo mais imprevisível — não é treinado, mas conhece o porto melhor do que qualquer soldado.
+
+- _Deception DC 12_ — convencê-lo de que os PCs têm autorização ou são pescadores contratados.
+- _Stealth DC 11_ — contorná-lo sem ser visto.
+- _Persuasion DC 14_ — subornálo diretamente. Funciona, mas ele vai lembrar das faces.
+- Falha: ele não ataca, mas fica desconfiado e começa a prestar atenção. Todas as verificações seguintes têm desvantagem.
+
+**Etapa 2 — Escolher e acessar o barco** Os barcos de pesca estão atracados com correntes e cadeados simples — nada sofisticado, mas suficiente para retardar.
+
+- _Sleight of Hand_ DC 13_ — abrir o cadeado silenciosamente.
+- _Força DC 15_ — forçar a corrente. Funciona, mas faz barulho — os soldados em patrulha precisam de uma verificação de Perception DC 14 para ouvir; se ouvirem, investigam.
+- Sem ferramentas e sem força suficiente: os PCs precisam encontrar outro barco ou improvisar — um barco sem vela, por exemplo, que torna a travessia mais lenta e mais arriscada.
+
+**Etapa 3 — Soltar as amarras e partir sem alarme** Esta é a etapa mais delicada — um barco de pesca que parte no meio da noite chama atenção se alguém estiver olhando.
+
+- _Stealth coletiva DC 11_ — o grupo inteiro deve passar. Cada falha individual dá ao vigia ou aos soldados uma chance de Perception DC 13.
+- Se algum PC tiver proficiência com veículos aquáticos ou background náutico: a saída é silenciosa e controlada, sem verificação adicional.
+- Sem nenhuma experiência náutica no grupo: saving throw de Intelligence DC 12 para descobrir como soltar as velas corretamente. Falha significa que partem a remos — mais lento, mais barulhento, mas funciona.
+
+**Se os soldados forem alertados:** Não atacam imediatamente — primeiro gritam uma ordem de parada e mandam buscar reforços. Os PCs têm uma rodada para decidir: combate, fuga acelerada no barco, ou blefe de última hora. Se o barco já estiver se movendo, perseguição a pé pelo cais é possível mas os PCs têm vantagem — nenhum barco imperial pequeno estará pronto para partir imediatamente.
 
 ##### Rota Terrestre
 ##### Floresta
