@@ -287,8 +287,12 @@ O vilarejo, por sua vez, segue completamente abandonado. As casas, destroçadas 
 
 **Vocês param aqui?**
 
-Seguindo seu caminho, vocês buscam, talvez, um lugar menos macabro para acampar pela noite. Vocês ainda têm algumas horas até ser estritamente necessário parar. A luz da 
+Seguindo seu caminho, vocês buscam, talvez, um lugar menos macabro para acampar pela noite. Vocês ainda têm algumas horas até ser estritamente necessário parar. A floresta lentamente vai se abrindo, eventualmente dando espaço à terras abertas, com mais grama e menos árvores. À distância, à leste, é possível ver o breve reluzir das luzes da cidade de Kayakayanaya. Seu caminho, porém, não é para a cidade fortemente guardada, mas através das planícies e pântanos até Ered Luin.
 
+**PCs precisam acampar antes de prosseguir**
+
+Primeiro vilarejo: Poço da Flecha
+Segundo vilarejo: 
 ##### Floresta
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
