@@ -279,7 +279,15 @@ O barco encalhou na areia escura com um impacto suave. A floresta estava à fren
 
 Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu longo caminho até a Passagem de Dúathras, nas Montanhas Azuis, ou Ered Luin, como os elfos as chamam.
 
-Margeando a floresta
+**SE FALHAREM NO SURVIVAL, ENCONTRO COM 6 GOBLINS**
+
+Por dentro da floresta, vocês caminham seguindo **líder do grupo**. Passam, quando o sol está se pondo, pelo vilarejo de Zirith, destruído há algumas semanas por integrantes da Nathrak. Alguns de vocês se lembram de sua jornada para lá, com o ex-capitão [[Inimigos#Capitão Vanfyr|Vanfyr]], agora Barão do novo Império. Parece um passado tão distante. Como se tivesse acontecido há muito tempo, quiçá meses, no ano passado. 
+
+O vilarejo, por sua vez, segue completamente abandonado. As casas, destroçadas pelas chamas e pelos cultistas, permanecem da mesma forma, e não há nenhuma alma viva presente. 
+
+**Vocês param aqui?**
+
+Seguindo seu caminho, vocês buscam, talvez, um lugar menos macabro para acampar pela noite. Vocês ainda têm algumas horas até ser estritamente necessário parar. A luz da 
 
 ##### Floresta
 

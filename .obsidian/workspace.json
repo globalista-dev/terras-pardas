@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "6ª Sessão"
             }
+          },
+          {
+            "id": "de973476a3998d88",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/Mapas/Mapa RPG - Segundo ato.png"
+              },
+              "icon": "lucide-image",
+              "title": "Mapa RPG - Segundo ato"
+            }
           }
         ]
       }
@@ -186,10 +198,11 @@
   },
   "active": "f677ade93c72b5ab",
   "lastOpenFiles": [
+    "Lore/NPCs/Inimigos.md",
+    "Sessões/6ª Sessão.md",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
     "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
     "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
-    "Sessões/6ª Sessão.md",
     "Imagens/Mapas/Mapa RPG.pdn",
     "Imagens/Mapas/Mapa RPG - Segundo ato.pdn",
     "Imagens/Mapas/Mapa RPG - Antes de Boromir.pdn",
@@ -200,7 +213,6 @@
     "Lore/Locais/Reino Humano de Arda.md",
     "Lore/Locais/Cidade de Latão.md",
     "Imagens/Mapas/Mapa para Claude.png",
-    "Lore/NPCs/Inimigos.md",
     "Lore/Facções & Grupos/Nathrak.md",
     "Lore/NPCs/Aliados.md",
     "Lore/Locais/Confederação Yi-Ti.md",
