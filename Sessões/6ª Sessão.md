@@ -164,6 +164,8 @@ Subitamente, um grito interrompe os pensamentos de vocês. "Olhe! Ali, na borda 
 
 Entretanto, sabe que os elfos de Thyal Dorthorë têm um artefato, cujas menções são raras e antigas, capaz de neutralizar os efeitos da Coroa. Seu nome é Eler Nthandz, o Contrapeso ou a Chave Inversa. 
 
+As falas do homem mascarado são interrompidas pelo grito de dor de Crane. Vocês veem Elara, a comandante dos curandeiros, colocando em sua boca um apanhado de ervas. "Eu... Eu não sei o que é isso..."
+
 #### **JORNADA ATÉ THYAL DORTHORË** 
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
