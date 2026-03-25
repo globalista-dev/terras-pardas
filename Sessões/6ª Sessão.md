@@ -231,6 +231,60 @@ O roubo funciona como uma sequência de verificações encadeadas, não como um 
 
 **Se os soldados forem alertados:** Não atacam imediatamente — primeiro gritam uma ordem de parada e mandam buscar reforços. Os PCs têm uma rodada para decidir: combate, fuga acelerada no barco, ou blefe de última hora. Se o barco já estiver se movendo, perseguição a pé pelo cais é possível mas os PCs têm vantagem — nenhum barco imperial pequeno estará pronto para partir imediatamente.
 
+### A Travessia da Baía
+
+A baía é grande — não um lago, mas tampouco um oceano aberto. Com vento favorável, a travessia leva entre meio dia e um dia completo dependendo das condições. Sem vento, a remos, leva o dobro.
+
+**Condições da travessia:** Role 1d6 discretamente no início:
+
+- **1-2:** Tempestade leve — visibilidade reduzida, verificações de Atletismo DC 12 a cada hora para manter o curso, mas a chuva cobre a fuga de Kayakayanaya.
+- **3-5:** Tempo tranquilo — travessia sem complicações mecânicas.
+- **6:** Vento excepcional — chegam em metade do tempo esperado.
+
+**1-2**
+A chuva começou antes que Kayakayanaya desaparecesse completamente no horizonte — primeiro um cheiro, depois um vento que veio do nada e mudou de direção duas vezes antes de se decidir, e então as primeiras gotas, grossas e frias, batendo no convés com a insistência de algo que não tem pressa porque sabe que vai vencer.
+
+A baía, tranquila ao longe, revelou-se diferente de perto. Não havia ondas altas — apenas um movimento constante e irregular, como se a água não conseguisse se decidir sobre para onde ir. O barco respondia mal, empurrado por correntes que contrariavam o vento, e manter o curso exigiu mais força e mais atenção do que qualquer um havia calculado. As velas estufavam no momento errado. A chuva reduzia tudo a alguns metros de visibilidade em qualquer direção.
+
+**TESTE DE ATLETISMO DC 12**
+
+Havia, porém, uma vantagem: Kayakayanaya havia desaparecido muito antes do que desapareceria num dia claro. Qualquer perseguição, se houvesse, estaria tão cega quanto eles.
+
+No meio da travessia, quando não havia nada visível em nenhuma direção exceto água cinza e chuva, alguém poderia ter tido a sensação de que estavam completamente sós no mundo.
+
+A costa de Sylvandor apareceu como uma sombra antes de aparecer como terra. Um grande clarão de relâmpago ilumina a costa escura e sua floresta infinda.
+[[6ª Sessão#Floresta|Ir para Floresta]]
+
+**3-5**
+A baía estava quieta.
+
+Não havia muito a fazer além de manter o curso e deixar o vento trabalhar. O barco deslizava com a regularidade e Kayakayanaya foi encolhendo atrás deles em ritmo constante até sumir inteiramente no horizonte.
+
+O silêncio que ficou era diferente do silêncio em terra. Vocês ouvem apenas o rangido suave do casco e o barulho da água partida pela proa.
+
+Era o tipo de pensamento que a imensidão da água provocava, e que era melhor deixar passar sem examinar com atenção.
+
+A costa de Sylvandor apareceu no fim da tarde — uma linha escura que foi crescendo devagar, ganhando textura, até revelar-se como o que era: árvores tão altas e tão juntas que pareciam uma muralha que alguém havia esquecido de terminar. A praia era estreita e escura. O barco encalhou suavemente na areia, e o silêncio da floresta os recebeu como se sempre soubesse que chegariam.
+
+**6**
+O vento veio do sul sem aviso e sem explicação meteorológica satisfatória — forte, constante, exatamente na direção certa, como se a baía tivesse decidido cooperar por razões próprias. As velas encheram com um estalo seco e o barco acelerou de uma forma que fez alguém se segurar instintivamente na borda.
+
+Kayakayanaya desapareceu rápido demais. Em menos tempo do que qualquer um havia calculado, não havia mais nada atrás deles exceto água, e à frente a costa de Sylvandor já era visível como uma mancha escura no horizonte — presente demais para a distância que deveriam ter percorrido.
+
+O vento não variou. Não amainava, não forçava demais, não mudava de direção. Mantinha-se com uma regularidade que deixava de parecer meteorológica e começava a parecer intencional. Como se alguém, em algum lugar além da linha das árvores que se aproximavam rapidamente, soubesse que eles estavam vindo e tivesse decidido, por razões que não compartilharia, facilitar a viagem.
+
+A praia apareceu antes que estivessem prontos para ela. O barco encalhou na areia escura com um impacto suave, quase gentil. O vento cessou no mesmo instante — completamente, sem diminuir gradualmente, sem a hesitação natural do clima. Um momento havia vento; no seguinte, não havia.
+
+A floresta estava à frente, imóvel e densa e silenciosa.
+##### Desembarque
+A costa sul de Sylvandor não tem porto. Não tem doca. Não tem nada que indique que alguém esperava visitas.
+
+O que há é uma praia estreita de areia escura, encostada contra uma muralha de árvores que começa abruptamente onde a areia termina — sem transição, sem arbustos de beira de praia, sem área de vegetação rala. A floresta simplesmente começa, densa e alta e antiga, como se estivesse esperando ali desde antes de haver mar para separá-la do resto do mundo.
+
+O barco encalha na areia com um rangido surdo. Os PCs desembarcam com os pés molhados e o silêncio da floresta à frente — diferente do silêncio de qualquer floresta que já tenham atravessado. Mais completo. Mais atento.
+
+Não há trilha visível. Mas há, se alguém prestar atenção, uma ausência de galhos quebrados numa direção específica — como se algo passasse por ali regularmente sem deixar rastro, apenas espaço. A floresta não os convida. Mas tampouco os barra.
+
 ##### Rota Terrestre
 ##### Floresta
 
