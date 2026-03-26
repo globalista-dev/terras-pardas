@@ -381,7 +381,7 @@ Aerindel é interrompido pelo uivar do vento. A luz dourada da floresta rapidame
 
 "É possível, entretanto, auxiliar vosso companheiro." O velho faz um gesto e uma elfa se aproxima de vocês. "Sim, Ancião?"
 
-"Cara "
+"Cara Talathiel, para este pobre viajante, celeramente prepare uma poção com "
 
 ##### O que é a Maldição do Espinho Negro? [[6ª Sessão#Índice|(voltar)]] 
 "A lâmina que vos feriu não era apenas aço. Era cólera -- a ira de algo que margeia entre a vida e a morte sem a nenhuma das duas pertencer. Esse algo deixou em vosso companheiro uma marca: uma sombra que de dentro cresce, que esfria o que o calor deveria ter, que apaga lentamente aquilo que faz de alguém o que é. Vosso companheiro ainda aqui se encontra. Porém parte dele já começou a partir. Conheceis o frio que antecede o amanhecer, quando a noite se recusa a findar? É disto que falo." 
