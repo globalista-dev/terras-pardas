@@ -169,16 +169,9 @@ Entretanto, sabe que os elfos de Thyal Dorthorë têm um artefato, cujas mençõ
 As falas do homem mascarado são interrompidas pelo grito de dor de Crane. Vocês veem Elara, a comandante dos curandeiros, colocando em sua boca um apanhado de ervas. "Eu... Eu não sei o que é isso... Nada que fazemos resolve..." Ela vira para vocês com a face ainda suja da batalha "Sua única esperança para ele está, também, nos elfos. Fale com Aerindel, clame por seus curandeiros."
 
 **Aqui, os jogadores conversam sobre o que vão fazer**
-Oblitus pode sugerir duas rotas:
-1) Ir até Kayakayanaya, roubar um navio e parar na costa sul de Sylvandor; mais arriscado
-2) Atravessar as Terras Pardas a pé, passar pelas Montanhas Azuis e descer pelas florestas de Sylvandor até Thyal Dorthorë
+Oblitus sugere uma rota que envolve ir até Kayakayanaya, roubar um navio e parar na costa sul de Sylvandor; os botes da Resistência não foram feitos para atravessar o mar.
 
 #### **JORNADA ATÉ THYAL DORTHORË** 
-
-Opção 1: [[6ª Sessão#Kayakayanaya|Kayakayanaya]]
-Opção 2: [[6ª Sessão#Rota Terrestre|Rota Terrestre]]
-
-Depois de qualquer uma das duas: [[6ª Sessão#Floresta|Floresta]]
 
 ##### Kayakayanaya
 
@@ -273,27 +266,6 @@ O vento não variou. Não amainava, não forçava demais, não mudava de direç�
 
 O barco encalhou na areia escura com um impacto suave. A floresta estava à frente, imóvel e densa e silenciosa.
 [[6ª Sessão#Floresta|Ir para Floresta]]
-##### Rota Terrestre
-
-**Quem vai liderar o grupo?** Survival DC 12 para achar o caminho.
-
-Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu longo caminho até a Passagem de Dúathras, nas Montanhas Azuis, ou Ered Luin, como os elfos as chamam.
-
-O caminho levará, no mínimo, uma semana e meia. Três dias e noites apenas para chegar em Ered Luin, dois dias para passar por Dúathras, e o restante até Thyal Dorthorë.
-
-**SE FALHAREM NO SURVIVAL, ENCONTRO COM 6 GOBLINS**
-
-Por dentro da floresta, vocês caminham seguindo **líder do grupo**. Passam, quando o sol está se pondo, pelo vilarejo de Zirith, destruído há algumas semanas por integrantes da Nathrak. Alguns de vocês se lembram de sua jornada para lá, com o ex-capitão [[Inimigos#Capitão Vanfyr|Vanfyr]], agora Barão do novo Império. Parece um passado tão distante. Como se tivesse acontecido há muito tempo, quiçá meses, no ano passado. 
-
-O vilarejo, por sua vez, segue completamente abandonado. As casas, destroçadas pelas chamas e pelos cultistas, permanecem da mesma forma, e não há nenhuma alma viva presente. 
-
-**Vocês param aqui?**
-
-Seguindo seu caminho, vocês buscam, talvez, um lugar menos macabro para acampar pela noite. Vocês ainda têm algumas horas até ser estritamente necessário parar. A floresta lentamente vai se abrindo, eventualmente dando espaço à terras abertas, com mais grama e menos árvores. À distância, à leste, é possível ver o breve reluzir das luzes da cidade de Kayakayanaya. Seu caminho, porém, não é para a cidade fortemente guardada, mas através das planícies e pântanos até Ered Luin.
-
-**PCs precisam acampar antes de prosseguir**
-
-
 ##### Floresta
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
@@ -309,7 +281,7 @@ Enquanto vocês avançam pela floresta, os sons ao redor vão gradualmente cessa
 
 ##### Encontrol #2 -- Maermor
 
-Após seu encontro com a matilha, vocês recolhem suas coisas e seguem na jornada. À frente, vocês sabem, ainda resta muita floresta até Thyal Dorthorë. Os sons de pássaros e insetos voltam a soar no fundo, iluminados pela luz
+Após seu encontro com a matilha, vocês recolhem suas coisas e seguem na jornada. À frente, vocês sabem, ainda resta muita floresta até Thyal Dorthorë. Os sons de pássaros e insetos voltam a soar no fundo, iluminados pela luz dourada do sol que é filtrada pelas copas das árvores.
 
 ##### Caminho final para Thyal Dorthorë
 
