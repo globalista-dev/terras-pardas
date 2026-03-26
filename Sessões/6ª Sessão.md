@@ -305,13 +305,13 @@ Religion DC 15: Você reconhece esses padrões como sendo de rituais necromânti
 
 ##### Caminho final para Thyal Dorthorë
 
-Deixando Maermor para trás, vocês não conseguem evitar eventualmente olhar para o caminho que vieram com receio de ver alguém seguindo vocês.
+Deixando Maermor para trás, vocês não conseguem evitar eventualmente olhar para o caminho do qual vieram com receio de ver alguém seguindo vocês.
 
 Enquanto andam, pássaros começam cantar músicas inexplicáveis, e até o coaxar dos sapos parece mais bonito para seus ouvidos. De um lado e de outro, plantas que vocês nunca viram crescem com flores de uma miríade de cores. A floresta parece se tornar mais viva o quão mais próximo chegam da capital.
 
 A sensação de estar sendo observado começa logo depois e nunca passa. Não é ameaçadora. É apenas a certeza silenciosa de que a floresta sabe que eles estão ali, e que está decidindo o que fazer com esta informação.  
 
-Em algum momento da jornada – sem avisos nem som de passos --  há elfos na trilha. Não surgiram de nenhum lugar visível. Simplesmente estão lá, com a naturalidade de quem sempre esteve. Não são hostis, mas também não sorriem. Um deles fala, em Comum, com um sotaque que parece mais antigo do que a língua em si: 
+Em algum momento da jornada -- sem avisos nem som de passos --  há elfos na trilha. Não surgiram de nenhum lugar visível. Simplesmente estão lá, com a naturalidade de quem sempre esteve. Não são hostis, mas também não sorriem. Um deles fala, em Comum, com um sotaque que parece mais antigo do que a língua em si: 
 
 "Longa foi vossa jornada. Thyal Dorthorë vos aguarda além. O Ancião já tem ciência de que aqui pisastes"  Sem mais explicações, o elfo vira de costas e adentra na floresta. A trilha à sua frente parece se tornar cada vez mais clara. O convite está implícito. 
 
@@ -325,7 +325,7 @@ Um grande palácio é o ponto onde os dois mundos se encontram: sua base está n
 
 Ao se aproximarem, grandes portas de carvalho adornadas com ouro e prata se abrem. Uma sala aberta no nível do chão, onde uma das paredes é ausente, dando lugar à floresta. Imediatamente à frente dessa não-parede, um homem de cabelos brancos se senta num trono. 
 
-É velho da forma que elfos são velhos. Ele parece estar fazendo qualquer outra coisa que não prestar atenção em vocês, como quem pode dar metade de si mesmo a qualquer situação e ainda assim superar qualquer um que dê o todo. 
+É velho da forma que elfos são velhos. E talvez até um pouco mais. Ele parece estar fazendo qualquer outra coisa que não prestar atenção em vocês, como quem pode dar metade de si mesmo a qualquer situação e ainda assim superar qualquer um que dê o todo. 
 
 À frente do elfo, uma longa mesa de mogno se estende. Não há cadeiras nas cabeceiras, tampouco no lado do regente, apenas na face que deixa todos de costas para as portas. 
 
