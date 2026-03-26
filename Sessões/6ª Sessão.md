@@ -287,9 +287,19 @@ Lentamente, um cheiro de fumaça começa a ser perceptível para vocês. **LÍDE
 
 A espessa floresta eventualmente se abre numa clareira, onde casas de madeira estão postas em um círculo em torno de uma praça central. Apesar do cheiro de fumaça, vocês não ouvem pessoas nem as veem.
 
-Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto por uma tábua circular de madeira e, em cima dela, um altar improvisado de pedra escura se ergue. Atrás dele, uma fogueira, ainda acesa, faz uma coluna de fumaça se estender pelo ar.
+Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto por uma tábua circular de madeira e, em cima dela, um altar improvisado de pedra escura se ergue. Atrás dele, uma fogueira, ainda acesa, faz uma coluna de fumaça se estender pelo ar. O altar é circundado por ossos arranjados em padrões, que certamente significam algo para quem os colocou ali.
 
-Quan
+**Possíveis resultados para testes**
+
+Investigação DC 2: Em meio aos ossos, você encontra um medalhão de prata com um brasão dourado.
+
+History DC 6: O brasão pertence
+
+Investigação DC 11: Os ossos são humanoides, e parecem ser novos. Alguns ainda têm resquícios de sangue.
+
+Religion DC 11: Você reconhece os padrões como sendo de rituais necromânticos, mas não sabe exatamente para que servem.
+
+Religion DC 15: Você reconhece esses padrões como sendo de rituais necromânticos, mais especificamente um sacrifício das almas que outrora residiam naqueles corpos.
 
 ##### Caminho final para Thyal Dorthorë
 
