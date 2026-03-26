@@ -379,9 +379,11 @@ Aerindel é interrompido pelo uivar do vento. A luz dourada da floresta rapidame
 ##### Como curar a Maldição do Espinho Negro [[6ª Sessão#Índice|(voltar)]] 
 "Curar? Tal palavra pressupõe que o que vos aflige seja enfermidade. Não o é. O Espinho não é peçonha que o corpo possa expelir, nem ferida que a carne possa fechar por si mesma. É uma ausência, algo que foi arrancado de vosso companheiro no momento do corte, e que, sem ser restituído, continuará a faltar até que nada reste. Ervas e magias retardam o avanço; não o solvem. O que foi tomado precisa ser devolvido. De que modo? Isto está além do que estas árvores me foi dado aprender"
 
-"É possível, entretanto, auxiliar vosso companheiro." O velho faz um gesto e uma elfa se aproxima de vocês. "Sim, Ancião?"
+"É possível, entretanto, auxiliar vosso companheiro." O velho faz um gesto e uma elfa de cabelos ruivos se aproxima de Aerindel. "Sim, Ancião?"
 
-"Cara Talathiel, para este pobre viajante, celeramente prepare uma poção com "
+"Cara Talathiel, para este pobre viajante, celeramente prepare uma poção com carqueja, guaco e passiflora."
+
+A elfa acena com a cabeça, curvando-se levemente, e sai rapidamente da sala.
 
 ##### O que é a Maldição do Espinho Negro? [[6ª Sessão#Índice|(voltar)]] 
 "A lâmina que vos feriu não era apenas aço. Era cólera -- a ira de algo que margeia entre a vida e a morte sem a nenhuma das duas pertencer. Esse algo deixou em vosso companheiro uma marca: uma sombra que de dentro cresce, que esfria o que o calor deveria ter, que apaga lentamente aquilo que faz de alguém o que é. Vosso companheiro ainda aqui se encontra. Porém parte dele já começou a partir. Conheceis o frio que antecede o amanhecer, quando a noite se recusa a findar? É disto que falo." 
