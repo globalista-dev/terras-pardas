@@ -279,9 +279,15 @@ Enquanto vocês avançam pela floresta, os sons ao redor vão gradualmente cessa
 
 **INVESTIGATION, SURVIVAL, NATURE, ETC. DC 6**: Você encosta em um dos lobos e imediatamente percebe algo de errado. Seu corpo está completamente frio, e parte de sua pele abaixo do pelo está podre. Este lobo está morto há dias.
 
-##### Encontrol #2 -- Maermor
+##### Encontro #2 -- Maermor
 
-Após seu encontro com a matilha, vocês recolhem suas coisas e seguem na jornada. À frente, vocês sabem, ainda resta muita floresta até Thyal Dorthorë. Os sons de pássaros e insetos voltam a soar no fundo, iluminados pela luz dourada do sol que é filtrada pelas copas das árvores.
+Após seu encontro com a matilha, vocês recolhem suas coisas e seguem na jornada. À frente, vocês sabem, ainda resta muita floresta até Thyal Dorthorë. Os sons de pássaros e insetos voltam a soar no fundo, iluminados pela luz dourada do sol que se esgueira por entre a copa das árvores.
+
+Lentamente, um cheiro de fumaça começa a ser perceptível para vocês. **LÍDER DA JORNADA**, você sabe que, antes de chegarem em Thyal Dorthorë, vocês passarão por um outro vilarejo, Maermor. 
+
+A espessa floresta eventualmente se abre numa clareira, onde casas de madeira estão postas em um círculo em torno de uma praça central. Apesar do cheiro de fumaça, vocês não ouvem pessoas nem as veem.
+
+Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto por uma tábua circular de madeira e, em cima dela, um altar improvisado de pedra escura se ergue. Atrás dele, uma fogueira, ainda acesa, gera uma 
 
 ##### Caminho final para Thyal Dorthorë
 
