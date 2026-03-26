@@ -293,9 +293,11 @@ Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto
 
 Investigação DC 2: Em meio aos ossos, você encontra um medalhão de prata com um brasão dourado.
 
-History DC 6: O brasão pertence
-
 Investigação DC 11: Os ossos são humanoides, e parecem ser novos. Alguns ainda têm resquícios de sangue.
+
+History DC 6: O brasão pertence à família Boromir.
+
+History DC 12: O brasão pertence à família Boromir e, especificamente esse modelo, é utilizado por princesas.
 
 Religion DC 11: Você reconhece os padrões como sendo de rituais necromânticos, mas não sabe exatamente para que servem.
 
@@ -303,9 +305,13 @@ Religion DC 15: Você reconhece esses padrões como sendo de rituais necromânti
 
 ##### Caminho final para Thyal Dorthorë
 
-A sensação de estar sendo observado começa cedo e nunca passa. Não é ameaçadora. É apenas a certeza silenciosa de que a floresta sabe que eles estão ali, e que está decidindo o que fazer com esta informação.  
+Deixando Maermor para trás, vocês não conseguem evitar eventualmente olhar para o caminho que vieram com receio de ver alguém seguindo vocês.
 
-Em algum momento da jornada – sem avisos nem som de passos -- há elfos na trilha. Não surgiram de nenhum lugar visível. Simplesmente estão lá, com a naturalidade de quem sempre esteve. Não são hostis, mas também não sorriem. Um deles fala, em Comum, com um sotaque que parece mais antigo do que a língua em si: 
+Enquanto andam, pássaros começam cantar músicas inexplicáveis, e até o coaxar dos sapos parece mais bonito para seus ouvidos. De um lado e de outro, plantas que vocês nunca viram crescem com flores de uma miríade de cores. A floresta parece se tornar mais viva o quão mais próximo chegam da capital.
+
+A sensação de estar sendo observado começa logo depois e nunca passa. Não é ameaçadora. É apenas a certeza silenciosa de que a floresta sabe que eles estão ali, e que está decidindo o que fazer com esta informação.  
+
+Em algum momento da jornada – sem avisos nem som de passos --  há elfos na trilha. Não surgiram de nenhum lugar visível. Simplesmente estão lá, com a naturalidade de quem sempre esteve. Não são hostis, mas também não sorriem. Um deles fala, em Comum, com um sotaque que parece mais antigo do que a língua em si: 
 
 "Longa foi vossa jornada. Thyal Dorthorë vos aguarda além. O Ancião já tem ciência de que aqui pisastes"  Sem mais explicações, o elfo vira de costas e adentra na floresta. A trilha à sua frente parece se tornar cada vez mais clara. O convite está implícito. 
 
@@ -371,7 +377,11 @@ Aerindel é interrompido pelo uivar do vento. A luz dourada da floresta rapidame
 "Perguntais o que faz uma chave antes de verdes a fechadura. O que posso dizer é isto: onde a morte foi dobrada contra sua própria natureza, o Contrapeso a endireita. O vínculo entre o que corrompe e o que é corrompido – seja portador, seja deus – torna-se... questionável, em sua presença. Mas não vos digais que sabeis como usá-lo, pois eu próprio não sei. E desconfiai de quem afirmar que sabe." 
 
 ##### Como curar a Maldição do Espinho Negro [[6ª Sessão#Índice|(voltar)]] 
-"Curar? Tal palavra pressupõe que o que vos aflige seja enfermidade. Não o é. O Espinho não é peçonha que o corpo possa expelir, nem ferida que a carne possa fechar por si mesma. É uma ausência, algo que foi arrancado de vosso companheiro no momento do corte, e que, sem ser restituído, continuará a faltar até que nada reste. Ervas e magias retardam o avanço; não o solvem. O que foi tomado precisa ser devolvido. De que modo? Isto está além do que estas árvores me foi dado aprender" 
+"Curar? Tal palavra pressupõe que o que vos aflige seja enfermidade. Não o é. O Espinho não é peçonha que o corpo possa expelir, nem ferida que a carne possa fechar por si mesma. É uma ausência, algo que foi arrancado de vosso companheiro no momento do corte, e que, sem ser restituído, continuará a faltar até que nada reste. Ervas e magias retardam o avanço; não o solvem. O que foi tomado precisa ser devolvido. De que modo? Isto está além do que estas árvores me foi dado aprender"
+
+"É possível, entretanto, auxiliar vosso companheiro." O velho faz um gesto e uma elfa se aproxima de vocês. "Sim, Ancião?"
+
+"Cara "
 
 ##### O que é a Maldição do Espinho Negro? [[6ª Sessão#Índice|(voltar)]] 
 "A lâmina que vos feriu não era apenas aço. Era cólera -- a ira de algo que margeia entre a vida e a morte sem a nenhuma das duas pertencer. Esse algo deixou em vosso companheiro uma marca: uma sombra que de dentro cresce, que esfria o que o calor deveria ter, que apaga lentamente aquilo que faz de alguém o que é. Vosso companheiro ainda aqui se encontra. Porém parte dele já começou a partir. Conheceis o frio que antecede o amanhecer, quando a noite se recusa a findar? É disto que falo." 
