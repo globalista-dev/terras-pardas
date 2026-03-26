@@ -289,7 +289,7 @@ A espessa floresta eventualmente se abre numa clareira, onde casas de madeira es
 
 Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto por uma tábua circular de madeira e, em cima dela, um altar improvisado de pedra escura se ergue. Atrás dele, uma fogueira, ainda acesa, faz uma coluna de fumaça se estender pelo ar.
 
-O altar é cercado 
+Quan
 
 ##### Caminho final para Thyal Dorthorë
 
