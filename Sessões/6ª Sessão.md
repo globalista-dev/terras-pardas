@@ -287,7 +287,9 @@ Lentamente, um cheiro de fumaça começa a ser perceptível para vocês. **LÍDE
 
 A espessa floresta eventualmente se abre numa clareira, onde casas de madeira estão postas em um círculo em torno de uma praça central. Apesar do cheiro de fumaça, vocês não ouvem pessoas nem as veem.
 
-Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto por uma tábua circular de madeira e, em cima dela, um altar improvisado de pedra escura se ergue. Atrás dele, uma fogueira, ainda acesa, gera uma 
+Quando vocês se aproximam, veem que o poço, no centro da praça, está coberto por uma tábua circular de madeira e, em cima dela, um altar improvisado de pedra escura se ergue. Atrás dele, uma fogueira, ainda acesa, faz uma coluna de fumaça se estender pelo ar.
+
+O altar é cercado 
 
 ##### Caminho final para Thyal Dorthorë
 
