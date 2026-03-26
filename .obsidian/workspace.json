@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "62dfe9daf9e5a7e5",
+    "id": "07ad32b66902ab63",
     "type": "split",
     "children": [
       {
-        "id": "43cc38269ae4744f",
+        "id": "aa5e4bb673cb8b23",
         "type": "tabs",
         "children": [
           {
-            "id": "f677ade93c72b5ab",
+            "id": "aa27ea25e41309ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,35 +20,22 @@
               "icon": "lucide-file",
               "title": "6ª Sessão"
             }
-          },
-          {
-            "id": "de973476a3998d88",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/Mapas/Mapa RPG - Segundo ato.png"
-              },
-              "icon": "lucide-image",
-              "title": "Mapa RPG - Segundo ato"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "254d25bd86abe756",
+    "id": "2f71a2a60c1b5564",
     "type": "split",
     "children": [
       {
-        "id": "9e40ed8cbf4bd699",
+        "id": "318951b9f0e2d4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cda6e2027eb93192",
+            "id": "72120969d47dc347",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +48,7 @@
             }
           },
           {
-            "id": "8af28c1c2d2d535f",
+            "id": "3ad3851b7fbf3e8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +65,7 @@
             }
           },
           {
-            "id": "7c70197a6e430660",
+            "id": "443a8a0fe3695eb1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "811763f5297fec8a",
+    "id": "b0a2feda43bafb72",
     "type": "split",
     "children": [
       {
-        "id": "e323f7eafd14f1ad",
+        "id": "5b05a264a6047a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "711282b603f1b5e2",
+            "id": "786b06b17abdac33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/6ª Sessão.md",
+                "file": "Sessões/1ª Sessão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6ª Sessão"
+              "title": "Backlinks for 1ª Sessão"
             }
           },
           {
-            "id": "844ddc308d79108d",
+            "id": "c3442700d29ee4d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/6ª Sessão.md",
+                "file": "Sessões/1ª Sessão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6ª Sessão"
+              "title": "Outgoing links from 1ª Sessão"
             }
           },
           {
-            "id": "2331019ce63a5faf",
+            "id": "f11d4355455a5553",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +137,7 @@
             }
           },
           {
-            "id": "d3c1128c5e5444e3",
+            "id": "331c2360179c2628",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,18 +151,18 @@
             }
           },
           {
-            "id": "66c7b0b93ccaa0fd",
+            "id": "325e08c95bca39e8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessões/6ª Sessão.md",
+                "file": "Sessões/1ª Sessão.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6ª Sessão"
+              "title": "Outline of 1ª Sessão"
             }
           }
         ]
@@ -197,52 +184,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de973476a3998d88",
+  "active": "aa27ea25e41309ea",
   "lastOpenFiles": [
-    "Sessões/6ª Sessão.md",
-    "Imagens/Mapas/Mapa RPG - Segundo ato.png",
+    "Lore/Locais/Confederação Yi-Ti.md",
     "Lore/NPCs/Inimigos.md",
-    "Imagens/Mapas/Mapa RPG - Antes de Boromir.png",
-    "Imagens/Mapas/Mapa RPG - Primeiro Ato.png",
-    "Imagens/Mapas/Mapa RPG.pdn",
-    "Imagens/Mapas/Mapa RPG - Segundo ato.pdn",
-    "Imagens/Mapas/Mapa RPG - Antes de Boromir.pdn",
-    "Imagens/Mapas",
-    "Lore/Locais/Terras Pardas.md",
-    "Lore/Locais/Bath'bathal.md",
+    "Sessões/6ª Sessão.md",
+    "Sessões/1ª Sessão.md",
     "Lore/Locais/Sylvandor.md",
     "Lore/Locais/Reino Humano de Arda.md",
-    "Lore/Locais/Cidade de Latão.md",
-    "Imagens/Mapas/Mapa para Claude.png",
-    "Lore/Facções & Grupos/Nathrak.md",
-    "Lore/NPCs/Aliados.md",
-    "Lore/Locais/Confederação Yi-Ti.md",
     "Lore/Locais/Império Ameriano.md",
-    "Imagens/Stats/pai_do_crane_stats.png",
+    "Lore/Locais/Cidade de Latão.md",
+    "Lore/PCs.md",
     "Sessões/5ª Sessão.md",
+    "Sessões/4ª Sessão.md",
     "Sessões/3ª Sessão.md",
-    "Imagens/Stats/batund_stats.png",
-    "Imagens/Stats/elara_stats.png",
-    "Imagens/Stats/oblitus_stats.png",
-    "Imagens/Stats/veran_stats.png",
-    "Imagens/Stats/Pasted image.png",
-    "Untitled.md",
+    "Sessões/2ª Sessão.md",
+    "Sessões",
+    "Lore/NPCs/Aliados.md",
+    "Lore/Locais/Terras Pardas.md",
+    "Lore/Locais/Terras Esquecidas.md",
+    "Lore/Locais/Bath'bathal.md",
+    "Lore/Facções & Grupos/Resistência Livre.md",
+    "Lore/Facções & Grupos/Nathrak.md",
+    "Lore/Facções & Grupos/Legião de Tyr.md",
+    "Lore/Facções & Grupos/Culto de Myrkul.md",
     "Lore/Eventos/Fundação das Terras Pardas.md",
     "Lore/Eventos/A Grande Reunificação.md",
-    "Lore/Facções & Grupos/Culto de Myrkul.md",
+    "Lore/NPCs",
+    "Lore/Locais",
+    "Lore/Facções & Grupos",
+    "Lore/Eventos",
+    "Lore",
+    "Imagens/Stats/zombie_stats.png",
+    "Imagens/Stats/veran_stats.png",
+    "Imagens/Stats/troll_stats.png",
+    "Imagens/Stats/soldier_stats.png",
+    "Imagens/Stats/pai_do_crane_stats.png",
+    "Imagens/Stats/oblitus_stats.png",
+    "Imagens/Stats/necromancer_stats.png",
+    "Imagens/Stats/lider_stats.png",
+    "Imagens/Stats/elara_stats.png",
+    "Imagens/Stats/batund_stats.png",
     "Imagens/Stats",
     "Imagens",
-    "Sessões/2ª Sessão.md",
-    "Sessões/1ª Sessão.md",
-    "Lore/Locais/Terras Esquecidas.md",
-    "Lore/Facções & Grupos/Resistência Livre.md",
-    "Lore/Facções & Grupos/Legião de Tyr.md",
-    "Lore/Eventos",
-    "Lore/PCs.md",
-    "Lore/PCs",
-    "Lore/NPCs",
-    "Sessões/4ª Sessão.md",
-    "Lore",
     "Welcome.md"
   ]
 }
