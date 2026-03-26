@@ -279,6 +279,8 @@ O barco encalhou na areia escura com um impacto suave. A floresta estava à fren
 
 Vocês deixam o acapamento da Resistência, e mesmo depois de não conseguir mais vê-lo, o cheiro de fumaça e sangue permanece no ar. Se adentrando pela floresta que se fecha próximo ao acampamento, vocês seguem seu longo caminho até a Passagem de Dúathras, nas Montanhas Azuis, ou Ered Luin, como os elfos as chamam.
 
+O caminho levará, no mínimo, uma semana e meia. Três dias e noites apenas para chegar em Ered Luin, dois dias para passar por Dúathras, e o restante até Thyal Dorthorë.
+
 **SE FALHAREM NO SURVIVAL, ENCONTRO COM 6 GOBLINS**
 
 Por dentro da floresta, vocês caminham seguindo **líder do grupo**. Passam, quando o sol está se pondo, pelo vilarejo de Zirith, destruído há algumas semanas por integrantes da Nathrak. Alguns de vocês se lembram de sua jornada para lá, com o ex-capitão [[Inimigos#Capitão Vanfyr|Vanfyr]], agora Barão do novo Império. Parece um passado tão distante. Como se tivesse acontecido há muito tempo, quiçá meses, no ano passado. 
@@ -291,8 +293,7 @@ Seguindo seu caminho, vocês buscam, talvez, um lugar menos macabro para acampar
 
 **PCs precisam acampar antes de prosseguir**
 
-Primeiro vilarejo: Poço da Flecha
-Segundo vilarejo: Riachobranco
+
 ##### Floresta
 
 A floresta de Sylvandor não começa com uma fronteira clara. Não há portões, marcos ou placas, apenas uma mudança gradual que os viajantes percebem tarde demais para apontar exatamente quando aconteceu. 
