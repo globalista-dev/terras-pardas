@@ -1,4 +1,4 @@
-#### **PRÉ-CERCO** 
+ #### **PRÉ-CERCO** 
 
 O amanhecer chegou sobre o acampamento como em tantos outros dias – lento, cinza, filtrado pelas copas densas das árvores que o cercam. As fogueiras da noite anterior ainda ardem em brasa, e o cheiro de resina e terra úmida impregna o ar frio da manhã. 
 
