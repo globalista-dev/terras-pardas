@@ -207,7 +207,7 @@ O roubo funciona como uma sequência de verificações encadeadas, não como um 
 
 - _Deception DC 12_ — convencê-lo de que os PCs têm autorização ou são pescadores contratados.
 - _Stealth DC 11_ — contorná-lo sem ser visto.
-- _Persuasion DC 14_ — subornálo diretamente. Funciona, mas ele vai lembrar das faces.
+- _Persuasion DC 14_ — suborná-lo diretamente. Funciona, mas ele vai lembrar das faces.
 - Falha: ele não ataca, mas fica desconfiado e começa a prestar atenção. Todas as verificações seguintes têm desvantagem.
 
 **Etapa 2 — Escolher e acessar o barco** Os barcos de pesca estão atracados com correntes e cadeados simples — nada sofisticado, mas suficiente para retardar.
