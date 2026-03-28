@@ -20,6 +20,12 @@ Elara: elfa de cabelos claros; comandante dos curandeiros 
 
 Veran: humano esguio, de pele pálida e cabelos escuros; comandante dos batedores 
 
+**JOGADORES NOVOS**
+
+Ardryll: 
+
+Gunther & Elara: professor e diretora da Escola de Magia de Elmswith, respectivamente. Consultando Oblitus sobre o Culto de Myrkul
+
 **JOGADORES AQUI PODEM DECIDIR O QUE FAZER. SUGESTÕES:**
 
 Cada ação realizada dá um bônus de HP ou MP, para um máximo de cinco ações. 
