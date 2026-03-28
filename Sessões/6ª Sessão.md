@@ -63,7 +63,7 @@ Por último, role um d4 para ver qual NPC vai acompanhar os jogadores.
 4 - [[Aliados#Batund|Batund]]
 
 **[[6ª Sessão#POOL 1 6ª Sessão 35f9f9 (voltar)|Pool 1]]:** (d7-d6-d5-d4-d3-d2-d1)
-Riscar (2 ~):   1   1   1   2   3   4   5
+Riscar (2 ~):   1   1   ~~1~~   2   ~~3~~   4   ~~5~~
 Links: [[6ª Sessão#^664df0|Evento 1]]  [[6ª Sessão#^75504e|Evento 2]]  [[6ª Sessão#^2cf212|Evento 3]]  [[6ª Sessão#^f4f98f|Eventos 4 & 5]]
 
 **[[6ª Sessão#POOL 2 6ª Sessão 35f9f9 (voltar)|Pool 2]]:** (d9-d8-d7-d6-d5-d4-d3-d2-d1)
