@@ -22,7 +22,7 @@ Veran: humano esguio, de pele pálida e cabelos escuros; comandante dos batedore
 
 **JOGADORES NOVOS**
 
-Ardryll: 
+Ardryll: membro dos batedores
 
 Gunther & Elara: professor e diretora da Escola de Magia de Elmswith, respectivamente. Consultando Oblitus sobre o Culto de Myrkul
 
