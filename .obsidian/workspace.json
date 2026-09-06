@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "6ª Sessão"
             }
-          },
-          {
-            "id": "de973476a3998d88",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de973476a3998d88",
+  "active": "f677ade93c72b5ab",
   "lastOpenFiles": [
     "Sessões/6ª Sessão.md",
     "Imagens/Mapas/Mapa RPG - Segundo ato.png",
